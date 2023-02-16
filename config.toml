@@ -1,0 +1,4 @@
+baseURL = 'http://florilegium.ink/'
+languageCode = 'en-us'
+title = 'Florilegium'
+theme = 'maddybook'
