@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Gentium+Plus:ital,wght@0,400;0,700;1,400;1,700');
 
-body, h1, h2 {
-    font-family: "Gentium Plus", serif;
+body *, h1, h2 {
+    font-family: "Gentium Plus", serif !important;
 }
 
 header {
@@ -30,3 +30,11 @@ header h2:after {
     width: 25%;
     border-top: 1px solid black;
 } 
+
+.next {
+    font-size: 20pt;
+    font-weight: bold;
+    display: block;
+    width: 100%;
+    text-align: center;
+}
