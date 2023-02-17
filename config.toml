@@ -2,3 +2,12 @@ baseURL = 'http://florilegium.ink/'
 languageCode = 'en-us'
 title = 'Florilegium'
 theme = 'maddybook'
+
+[params]
+    author = 'Madison Scott-Clary'
+    home = 'https://makyo.ink'
+    copyright = 2023
+    customCSS = ['/css/florilegium.css']
+
+[markup.goldmark.renderer]
+    unsafe = true

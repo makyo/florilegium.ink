@@ -1,0 +1,8 @@
+<style>
+ol {
+    list-style-type: decimal;
+}
+</style>
+{{ range (index $.Site.Data (.Get 0)) }}
+1. {{ .entry }}
+{{ end }}

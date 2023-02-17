@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Plus:ital,wght@0,400;0,700;1,400;1,700');
+
+body, h1, h2 {
+    font-family: "Gentium Plus", serif;
+}
+
+header {
+    padding-left: 25%;
+}
+
+header * {
+    text-align: left;
+}
+
+header h1 {
+    font-weight: 700;
+}
+
+header h2 {
+    padding-top: 0.75rem;
+    position: relative;
+    font-weight: 400;
+}
+
+header h2:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 25%;
+    border-top: 1px solid black;
+} 
