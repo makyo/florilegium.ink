@@ -201,7 +201,9 @@ How hard the year dies, and yet there is Spring. She has walked the grassy flat 
 
     And I'm sure it has much to do with the way in which one dies. Perhaps there is terror. Perhaps there is relief.[^32-1]
 
-[^32-1]: ⚠ I'm sure that Falcon felt a bit of both. She was in so much pain, and yet she was stuck at the vet. She was delirious with pain meds. She was surrounded by the worst smells, people she didn't know. She was in a cage until we got back.\par I have no idea what you must have felt.
+[^32-1]: ⚠ I'm sure that Falcon felt a bit of both. She was in so much pain, and yet she was stuck at the vet. She was delirious with pain meds. She was surrounded by the worst smells, people she didn't know. She was in a cage until we got back.
+
+    I have no idea what you must have felt.
 
 [^33]: And, in sleep, there is that not-knowing, not-caring. There is something of death in sleep, and for one who years for such, that bears much allure.
 
