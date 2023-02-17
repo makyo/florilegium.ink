@@ -170,7 +170,7 @@ How hard the year dies, and yet there is Spring. She has walked the grassy flat 
 
 [^31]: And perhaps do. I am not --- most of us are not --- immune to that simple desire that we have a little more time together. Another year, another month, another day. Even another hour together,[^31-1] enough time for me to tell you that I think of you often, that you mean a lot to me, that I hope you understand it.
 
-    The last time we talked one-on-one, you was a month before you died, June 5^th^. You pinged me in the Guild chat asking me to DM you because you couldn't find my chat in your client: "Could you DM me right quick?". I sent you a surprised-looking sticker and you said, "Uh, just wanted to say that although I don't know what I ever did to deserve having your support, I do see and appreciate it."
+    The last time we talked one-on-one, you was a month before you died, June 5<sup>th</sup>. You pinged me in the Guild chat asking me to DM you because you couldn't find my chat in your client: "Could you DM me right quick?". I sent you a surprised-looking sticker and you said, "Uh, just wanted to say that although I don't know what I ever did to deserve having your support, I do see and appreciate it."
 
     "You just strike me as an earnest and well-spoken. You do quite a bit to buoy others up, and that ought to be returned in kind," I said, but honestly, how the hell was I supposed to respond to that? That I think we both wind up in that spot where impostor syndrome becomes more dire? That any praise, any validation becomes almost too hot to touch?
 
