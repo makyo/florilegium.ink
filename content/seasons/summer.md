@@ -80,9 +80,9 @@ Would cry out sharply.
 {{% cite source="blackbird" %}}
 {{% /verse %}}
 
-It is the act of taking meaning from each other, as well, for each of us has our own agency: we can interact with each other and influence each other's definitions of ourselves.[^16]
+It is the act of taking meaning from each other, as well, for each of us has our own agency: we can interact with each other and influence each other's definitions of ourselves.[^17]
 
-As that golden bloom of Summer[^17] defines itself as all things must, and we have to take it at its word. We can kvetch about the insomnia of Summer, that which makes us sweat through the sheets so that the thought of touching someone else makes one feel clammy and disgusting[^18] all we want, but that doesn't mean anything to Summer. It just also doesn't stop us from layering our own definitions atop that.
+As that golden bloom of Summer[^18] defines itself as all things must, and we have to take it at its word. We can kvetch about the insomnia of Summer, that which makes us sweat through the sheets so that the thought of touching someone else makes one feel clammy and disgusting[^19] all we want, but that doesn't mean anything to Summer. It just also doesn't stop us from layering our own definitions atop that.
 
 [^13]: And perhaps your well dries out when you head out of town for you husband's surgery, so your dog-sitters to have to figure out water, leaving you to fret and pace around the hotel room, and maybe that's the time you decide, "You know what? Work is so terrible that I think I'll apply for grad school." But you have to provide a sample of analytic writing to do so, so you pick one of your friend's poems to analyze, and two weeks later --- when you've come home to no water and a dog whose health is steadily declining though you don't know it yet --- your friend is dead.
 
@@ -102,7 +102,7 @@ As that golden bloom of Summer[^17] defines itself as all things must, and we ha
 
 [^17]: Viz. me meeting Dwale in the writers' guild and deciding --- actively deciding --- that I would like to be its friend. It wasn't lacking, and neither was I, but something about someone who might choose 'it/its' as pronouns, someone who could engage with poetry in a way that had always eluded me. Doubt nips at my heels, though. Is "deciding to be someone's friend" a normal thing to do? Was that weird? Did it resent me for-- but I shouldn't be thinking like this.
 
-[^17]: Of dandelions:
+[^18]: Of dandelions:
 
     > "Of course. They are a weed, yes. Or often thought of as one. The leaves make a good salad, though, and I was told that you could dry, roast, and grind the roots to make a coffee substitute."
     >
@@ -110,4 +110,4 @@ As that golden bloom of Summer[^17] defines itself as all things must, and we ha
 
     They are death in Summer, I've always felt. I was always supposed to kill them, and they were always the sign of a dead lawn. Still, I read all about them on realizing how good they smelled and grew my little obsession. I passed it on to the characters in my books, and let them feel out that connection to death so that I could do so from a distance.
 
-[^18]: Just me? No? Maybe just me.
+[^19]: Just me? No? Maybe just me.
