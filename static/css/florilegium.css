@@ -32,9 +32,13 @@ header h2:after {
 } 
 
 .next {
-    font-size: 20pt;
-    font-weight: bold;
+    font-family: sans-serif !important;
     display: block;
-    width: 100%;
+    margin: 0.5rem auto 1rem auto;
+    font-size: 40pt;
     text-align: center;
+    text-decoration: none;
+}
+.phantom {
+    visibility: hidden;
 }

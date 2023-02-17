@@ -1,6 +1,6 @@
 ---
 title: Introduction
-next: seasons/spring
+next: "seasons/spring"
 ---
 
 <div style="text-align: center; font-style: italic;">

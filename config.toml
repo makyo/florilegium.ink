@@ -3,8 +3,6 @@ languageCode = 'en-us'
 title = 'Florilegium'
 theme = 'maddybook'
 
-[permalinks]
-    post = '/:filename/'
 
 [params]
     author = 'Madison Scott-Clary'

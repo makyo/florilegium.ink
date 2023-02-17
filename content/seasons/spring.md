@@ -1,6 +1,6 @@
 ---
 title: Spring
-next: summer
+next: "seasons/summer"
 ---
 
 A season of newness and beginnings: new growth, new life, new warmth under a new sun.

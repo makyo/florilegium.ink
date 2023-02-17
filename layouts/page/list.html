@@ -1,0 +1,5 @@
+{{ define "main" }}
+<main id="main"{{ if (isset .Params "fit" )}} class="fit"{{ end }}>
+    {{ .Content }}
+</main>
+{{end}}
