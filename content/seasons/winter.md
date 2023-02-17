@@ -243,7 +243,7 @@ How hard the year dies, and yet there is Spring. She has walked the grassy flat 
 
 [^40]: My accent[^40-1] has roof as /ɯ/ vs reproof as /u/.
 
-[^40-1]: I do not know your accent. I do not know where you came from. I do not remember your address. I do not remember your voice. I met you twice in 2015, back at the final Rainfurrest, and all I remember was your hat, your hair, your kosovorotka. I remember Mando better, and saw him only a little bit more. I remember JM introducing you as the one who wrote ``the best story in the fandom, I hear'', but that's about it. ``Behesht'', was it? The story about reaching paradise? The story of a post-apocalyptic wasteland, of the slow death of life, of the drive to press on towards something better that can only be stopped by death? 
+[^40-1]: I do not know your accent. I do not know where you came from. I do not remember your address. I do not remember your voice. I met you twice in 2015, back at the final Rainfurrest, and all I remember was your hat, your hair, your kosovorotka. I remember Mando better, and saw him only a little bit more. I remember JM introducing you as the one who wrote "the best story in the fandom, I hear", but that's about it. "Behesht", was it? The story about reaching paradise? The story of a post-apocalyptic wasteland, of the slow death of life, of the drive to press on towards something better that can only be stopped by death? 
 
     I looked the story up when thinking about this, and came across the lines:
 
