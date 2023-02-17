@@ -115,7 +115,7 @@ We think of it. We don't smile when we do.
 
     I don't know why I associate you so heavily with both terror and horror. You were a delight to be around, and your work is not *all* terror or horror. I wouldn't call your personality dark, or at least no darker than fallen leaves-- but I am getting ahead of myself.
 
-[^20-1]: "I had read the sign," I wrote for one of my only attempts at horror/terror {{% cite source="plu" %}}. "And had immediately fallen down into the space defined by that dichotomy, the gap between had-to-be and could-not-be. Dichotomy? Dialectic? There was no telling anymore, no matter how many times I'd tried to paste one word or the other onto the two phrases. Were 'dichotomy' and 'dialectic' a dichotomy or dialectic?"
+[^19-1]: "I had read the sign," I wrote for one of my only attempts at horror/terror {{% cite source="plu" %}}. "And had immediately fallen down into the space defined by that dichotomy, the gap between had-to-be and could-not-be. Dichotomy? Dialectic? There was no telling anymore, no matter how many times I'd tried to paste one word or the other onto the two phrases. Were 'dichotomy' and 'dialectic' a dichotomy or dialectic?"
 
     Clearly, I'm still shaky on the difference, despite those seven weeks in DBT (the D stands for 'dialectical', after all), but at least I recognize it; I can just dwell in that space between two truths. Best I can do when I'm about to write however many hundreds of words on dialectics/dichotomies.
 
