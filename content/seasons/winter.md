@@ -256,7 +256,7 @@ How hard the year dies, and yet there is Spring. She has walked the grassy flat 
     >
     > {{% cite source="behesht" %}}
 
-    That was back in 2015, though, so perhaps not. The dates don't add up. That was seven years before you died. It's one of those things where you couldn't have known. You couldn't *possibly* have known, and yet I suppose you bore within yourself the seeds of your death from birth, just as we all do.[^42-2]
+    That was back in 2015, though, so perhaps not. The dates don't add up. That was seven years before you died. It's one of those things where you couldn't have known. You couldn't *possibly* have known, and yet I suppose you bore within yourself the seeds of your death from birth, just as we all do.[^40-2]
 
 [^40-2]: Or, at least. I know I do. I know that I'm stuck with those death-thoughts, the ones that won't leave, will only curl up into a little purring ball in the corner of my mind, unwilling to let me out of its sight.
 
