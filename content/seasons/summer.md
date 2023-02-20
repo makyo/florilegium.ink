@@ -1,5 +1,6 @@
 ---
 title: Summer
+subtitle: Seasons
 next: "seasons/autumn"
 ---
 

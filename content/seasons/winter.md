@@ -1,5 +1,6 @@
 ---
 title: Winter
+subtitle: Seasons
 next: "seasons/spiral"
 ---
 

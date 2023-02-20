@@ -1,5 +1,6 @@
 ---
 title: Seasons
+subtitle: Seasons
 type: page
 next: "seasons/intro"
 ---

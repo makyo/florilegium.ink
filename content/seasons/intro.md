@@ -1,5 +1,6 @@
 ---
 title: Introduction
+subtitle: Seasons
 next: "seasons/spring"
 ---
 
