@@ -171,9 +171,9 @@ How hard the year dies, and yet there is Spring. She has walked the grassy flat 
 
 [^31]: And perhaps do. I am not --- most of us are not --- immune to that simple desire that we have a little more time together. Another year, another month, another day. Even another hour together,[^31-1] enough time for me to tell you that I think of you often, that you mean a lot to me, that I hope you understand it.
 
-    The last time we talked one-on-one, you was a month before you died, June 5<sup>th</sup>. You pinged me in the Guild chat asking me to DM you because you couldn't find my chat in your client: "Could you DM me right quick?". I sent you a surprised-looking sticker and you said, "Uh, just wanted to say that although I don't know what I ever did to deserve having your support, I do see and appreciate it."
+    The last time we talked one-on-one was a month before you died, June 5<sup>th</sup>. You pinged me in the Guild chat because you couldn't find my chat in your client: "Could you DM me right quick?". I sent you a surprised-looking sticker and you said, "Uh, just wanted to say that although I don't know what I ever did to deserve having your support, I do see and appreciate it."
 
-    "You just strike me as an earnest and well-spoken. You do quite a bit to buoy others up, and that ought to be returned in kind," I said, but honestly, how the hell was I supposed to respond to that? That I think we both wind up in that spot where impostor syndrome becomes more dire? That any praise, any validation becomes almost too hot to touch?
+    "You just strike me as earnest and well-spoken. You do quite a bit to buoy others up, and that ought to be returned in kind," I said, but honestly, how the hell was I supposed to respond to that? That I think we both wind up in that spot where impostor syndrome becomes more dire? That any praise, any validation becomes almost too hot to touch?
 
     It's a haunting sort of message to be left with. That I should praise your work (for I think it was in response to my review of *Face Down in the Leaves*) and inspire that terrifying ordeal of being seen has me confused and upset, but I don't know that there's much to be done about it. I wanted to type so much more than I did, but this wasn't the place. The conversation wasn't open after that. It had closed up, the point having been made --- inadequately by either of us, I suspect --- and then I never got to say anything about it again.
 
@@ -306,9 +306,11 @@ How hard the year dies, and yet there is Spring. She has walked the grassy flat 
 
     She knew.
 
-[^44-1]: And now, with Turtle, we finally have a chance for something else. We have weeks, maybe months with her. We don't have eight hours of trauma that I'm sure I'll never be able to forget, that time will only blunt the impact but never the memory.\par
-We know. We can journal her breathing, her energy, her mood. We can make these last weeks or months great for her. We can give her a little blob of sour cream every time she gets one of her steroid pills, a treat to go with a little bit of bitterness.\par
-We know, so we can get her wet food to eat as well as dry.
+[^44-1]: And now, with Turtle, we finally have a chance for something else. We have weeks, maybe months with her. We don't have eight hours of trauma that I'm sure I'll never be able to forget, that time will only blunt the impact but never the memory.
+
+    We know. We can journal her breathing, her energy, her mood. We can make these last weeks or months great for her. We can give her a little blob of sour cream every time she gets one of her steroid pills, a treat to go with a little bit of bitterness.
+    
+    We know, so we can get her wet food to eat as well as dry.
 
     We know, so we can invite Ash and Merry, from whom we adopted her, over to see her one last time, laugh at how Merry calls her 'the dirigible'.
   
@@ -316,7 +318,7 @@ We know, so we can get her wet food to eat as well as dry.
     
     We know.
 
-[^44-2]: ⚠ Had we known[^44-3] with Falcon, how much more time would have made a difference? Would it still have been traumatic if we'd had a few days with her rather than a few hours? Would I have been able to bring her home with some hefty painkillers to live a little longer by our sides, or in our bathroom? Surely we could have made her life a good one, those last few days; I know I'm still glad that her last meal that morning was some of that wet food that she loved, even though it doubtless sat inside her bleeding belly, undigested. JD and I still would have laid on the floor with her and watched her die, but would JD have sobbed, "Come back, come back"? Would I have needed --- twice! --- to step out of the room to 'deal with the paperwork' just so I wouldn't be around her still warm body?
+[^44-2]: ⚠ Had we known[^44-3] with Falcon, how much more time would have made a difference? Would it still have been traumatic if we'd had a few days with her rather than a few hours? Would I have been able to bring her home with some hefty painkillers to live a little longer by our sides, or in our bathroom? Surely we could have made her life a good one, those last few days; I know I'm still glad that her last meal that morning was some of that wet food that she loved, even though it doubtless sat inside her bleeding belly, undigested. JD and I still would have laid on the floor with her and held her as she died, but would JD have sobbed, "Come back, come back"? Would I have needed --- twice! --- to step out of the room to 'deal with the paperwork' just so I wouldn't be around her still yet unalive warm body?
 
 [^44-3]: And what about with you, Dwale?
 
