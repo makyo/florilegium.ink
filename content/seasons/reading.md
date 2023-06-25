@@ -13,10 +13,6 @@ Much of the imagery in poetry around Winter picks up on this, and we commonly se
 Issa says,
 
 {{% verse %}}
-*Arigata ya*
-*fusama no yuki mo*
-*Jodo yori*
-
 A blessing indeed ---
 This snow on the bed-quilt,
 This, too, is from the pure land
@@ -149,10 +145,6 @@ And, as the guidelines say, that has stuck with me. I think about it every time 
 Issa says,
 
 {{% verse %}}
-*Kore ga maa*
-*tsui no sumika ka*
-*yuki goshaku*
-
 Is this it, then,
 My last resting place ---
 Five feet of snow!
@@ -263,7 +255,7 @@ It sticks with me, apparently. In my own writing, I've dug deep into the beauty 
 
 Ioan, a few paragraphs above this, even talks of thistles.
 
-Weeds are those whose goal is to cling desperately to life *even* in death. Weeds don't wish for death, they accept it as inevitable more easily than us poor fools. The one speaking in that quote, after all, *is* named 'May Then My Name Die With Me'.
+Weeds are those whose goal is to cling desperately to life *even* in death. Weeds don't wish for death, they accept it as inevitable more easily than us poor fools.
 
 -----
 
