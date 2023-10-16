@@ -1,6 +1,6 @@
 ---
-title: Seasons
-subtitle: Seasons
+title: Slow-Turning Seasons
+subtitle: Slow-Turning Seasons
 type: page
 next: "seasons/intro"
 ---

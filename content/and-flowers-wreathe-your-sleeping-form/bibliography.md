@@ -1,6 +1,6 @@
 ---
 title: Bibliography
-subtitle: Seasons
+subtitle: Slow-Turning Seasons
 ---
 
 {{% bibliography "bibliography" %}}

@@ -10,7 +10,7 @@ n. pl. **flor·i·le·gi·a** */-dʒi ə/*
 
 -----
 
-## [Seasons](/seasons)
+## [And Flowers Wreathe Your Sleeping Form](/and-flowers-wreathe-your-sleeping-form)
 
 > *What means death or grief*  
 > *in the face of endless time?*  
@@ -18,10 +18,12 @@ n. pl. **flor·i·le·gi·a** */-dʒi ə/*
 
 An exploration of the spiral of poetry and of grief.
 
-## The Elevation of Unknown Things
+## [The Elevation of Unknown Things](/the-elevation-of-unknown-things)
 
-*Coming Soon*
+> If Matthew died in 2012, why was I not born then?
 
-## The Margin of the Terrifying
+An exploration of disinterested identity and the choices that lead to them.
 
-*Coming Soon*
+## [The Margin of the Terrifying](/the-margin-of-the-terrifying)
+
+> Around and around thoughts flow like water downstream with eddies behind rocks building whirlpools as holes in identity.

@@ -1,6 +1,6 @@
 ---
 title: Autumn
-subtitle: Seasons
+subtitle: Slow-Turning Seasons
 next: "seasons/winter"
 ---
 

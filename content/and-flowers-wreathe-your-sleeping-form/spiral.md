@@ -1,6 +1,6 @@
 ---
 title: Spiral
-subtitle: Seasons
+subtitle: Slow-Turning Seasons
 ---
 
 To return to Spring, to make it through that cycle of growth, of insomnia and harvest and frost, is to stand at a precipice. It is to stand right up against the edge of that spiral, lean over carefully, peer down into the depths from however many storeys up, and wonder. It is to confront memory in the form of heights. It is to regard the spiraling days, weeks, and months to either side of you, give them the acknowledgement they deserve, and then return to peering down into the depths.

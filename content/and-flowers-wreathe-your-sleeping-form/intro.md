@@ -1,6 +1,6 @@
 ---
 title: Introduction
-subtitle: Seasons
+subtitle: Slow-Turning Seasons
 next: "seasons/spring"
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: Winter
-subtitle: Seasons
+subtitle: Slow-Turning Seasons
 next: "seasons/spiral"
 ---
+
+**CW: will be mentioning euthanasia of a pet**
 
 "Now Winter comes slowly, Pale, Meager, and Old," Winter sings in *The Fairy Queen* {{% cite source="purcell" %}}.
 
@@ -107,11 +109,6 @@ She, then, like snow in a dark night
 Fell secretly. And the world waked
 With dazzling of the drowsy eye
 So that some muttered 'Too much light,'
-And drew the curtains close
-Like snow, warmer than fingers feared
-And to soil friendly;
-Holding the histories of the night
-In yet unmelted tracks
 
 {{% cite source="graves_poems" page="143" %}}
 {{% /verse %}}
