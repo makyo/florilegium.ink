@@ -1,7 +1,7 @@
 ---
 title: Winter
-subtitle: Slow-Turning Seasons
-next: "seasons/spiral"
+subtitle: And Flowers Wreathe Your Sleeping Form
+next: "and-flowers-wreathe-your-sleeping-form/spiral"
 ---
 
 **CW: will be mentioning euthanasia of a pet**

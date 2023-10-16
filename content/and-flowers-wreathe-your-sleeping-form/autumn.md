@@ -1,7 +1,7 @@
 ---
 title: Autumn
-subtitle: Slow-Turning Seasons
-next: "seasons/winter"
+subtitle: And Flowers Wreathe Your Sleeping Form
+next: "and-flowers-wreathe-your-sleeping-form/winter"
 ---
 
 Autumn bears a strange dichotomy of plenty and impending naught. In Autumn, we harvest. We think of squash and gourds. We think of wheat, rye, corn, those fields all tan and gray. Those rattle-dry stalks we met in spring are born here.

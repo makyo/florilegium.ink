@@ -1,7 +1,7 @@
 ---
 title: Winter
-subtitle: Slow-Turning Seasons
-next: "seasons/spiral"
+subtitle: And Flowers Wreathe Your Sleeping Form
+next: "and-flowers-wreathe-your-sleeping-form/spiral"
 ---
 
 "Now Winter comes slowly, Pale, Meager, and Old,"[^30] Winter sings in *The Fairy Queen* {{% cite source="purcell" %}}.

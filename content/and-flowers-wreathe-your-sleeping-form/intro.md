@@ -1,7 +1,7 @@
 ---
 title: Introduction
-subtitle: Slow-Turning Seasons
-next: "seasons/spring"
+subtitle: And Flowers Wreathe Your Sleeping Form
+next: "and-flowers-wreathe-your-sleeping-form/spring"
 ---
 
 <div style="text-align: center; font-style: italic;">

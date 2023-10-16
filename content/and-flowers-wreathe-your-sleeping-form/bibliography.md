@@ -1,6 +1,6 @@
 ---
 title: Bibliography
-subtitle: Slow-Turning Seasons
+subtitle: And Flowers Wreathe Your Sleeping Form
 ---
 
 {{% bibliography "bibliography" %}}

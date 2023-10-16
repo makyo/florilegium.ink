@@ -1,7 +1,7 @@
 ---
 title: Spring
-subtitle: Slow-Turning Seasons
-next: "seasons/summer"
+subtitle: And Flowers Wreathe Your Sleeping Form
+next: "and-flowers-wreathe-your-sleeping-form/summer"
 ---
 
 A season of newness and beginnings: new growth, new life, new warmth under a new sun.
