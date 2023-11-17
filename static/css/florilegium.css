@@ -5,7 +5,7 @@ body * {
     font-family: "Alegreya", serif;
 }
 
-h1, h2, h1 *, h2 * {
+h1, h2, h1 *, h2 *, summary {
     font-family: "Coelacanth", serif !important;
 }
 

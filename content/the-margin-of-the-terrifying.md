@@ -10,7 +10,6 @@ details {
 summary {
     font-size: 12pt;
     border-bottom: 1px dotted #555;
-    color: #555;
     list-style: none;
     cursor: pointer;
     margin-top: 1rem;
@@ -46,7 +45,7 @@ we breathe ourselves out and away. From ember to fading ember,<br>
 we give off a fainter scent. Oh, someone may tell us: you get in my blood, this room, the springtime,<br>
 is filled with you... <details><summary>[Note]</summary>
 
-See Rilke p. 23
+See Rilke p. 23  
 And were I to get in their blood, that room, the springtime? What then? What fainter scent would I leave in the noses of others? I ask and ask and ask. *–Beholden To The Heat Of The Lamps*</details>
 </blockquote>
 
@@ -59,7 +58,7 @@ Over the years, I may have fallen out of the habit of asking whether or not I am
 <blockquote>
 I must tell you it gives me great pleasure to think of you reading these words in licks and whorls of flame, your eyes unable to work backwards, unable to keep the letters on a page; instead, you must absorb them, admit them into your memory. <details><summary>[Note]</summary>
 
-See El-Mohtar and Gladstone p. 8
+See El-Mohtar and Gladstone p. 8  
 A pleasure worth hunting for! One that would take effort to hold in the mind, in tension with that anxiety; but worth it, yes? *–And We Are The Motes In The Stage-Lights*</details>
 </blockquote>
 
@@ -78,7 +77,7 @@ Who, though I screamed, would hear me among the ranks<br>
 of the angels? And even supposing one of them took me suddenly to his breast, I would perish within his overpowering being. For the beautiful is right at the margin<br>
 of the terrifying, which we can only just endure. <details><summary>[Note]</summary>
 
-See Rilke p. 11
+See Rilke p. 11  
 And how terrifying, yes. "Every angel is terrifying," the next line says. Every angel is terrifying; must I strive against them to endure? *–Beholden*</details>
 </blockquote>
 
@@ -93,7 +92,7 @@ I will litter online spaces with evidence of my presence. I will write my missiv
 <blockquote>
 Will you cut off, leaving my note to spin its fractal math inside you? <details><summary>[Note]</summary>
 
-See Rilke p. 14
+See Rilke p. 14  
 Sharper than the anxiety of merely taking up space is the worry that my edges my be too jagged, that I might turn within the others minds, tearing at them and leaving scrapes colored cherry. *–Where It Watches The Slow Hours Progress*</details>
 </blockquote>
 
@@ -102,8 +101,8 @@ I write and write and write, and then I fret and fret. My adversary, my *satan*,
 <blockquote>
 Anything I make that is at all meaningful to me — that is, anything that I feel is worth sharing — is too much to ask others to engage with. "How dare you," it says. "How dare you ask that others consider your work meaningful." <details><summary>[Note]</summary>
 
-See *ally from Start to Finish*
-My *satan*, yes, my *makyō*. My accuser, my adversary, my demon that distracts from the path to enlightenment and greater knowledge. That ghost-cave I inhabit. *–Slow Hours*</details>
+See *ally from Start to Finish*  
+My *satan*, yes, my *makyō*. My accuser, my adversary, my demon that distracts from the path to enlightenment and greater knowledge. That ghost-cave I inhabit. *–What Right Have I*</details>
 </blockquote>
 
 How dare I! How dare I take up that space! And with malice and aforethought!
@@ -150,7 +149,7 @@ But I am working at getting better at accepting that sort of feedback. I am tryi
 And we marvel at it so because it holds back in serene disdain<br>
 and does not destroy us.  <details><summary>[Note]</summary>
 
-See Rilke p. 11
+See Rilke p. 11  
 And how few have! Jill, perhaps? Unition, who bade me leave my husband and move to Canada to live with him because we danced together at a rave? And precious few others, though perhaps exceptions bear too much weight. *–Hold My Name Beneath Your Tongue And Know*</details>
 </blockquote>
 
@@ -161,7 +160,7 @@ Even now, even as I set my words in pixels on screen and ink on paper and promis
 <blockquote>
 PS. I hesitate to write this, but—I've noticed my letters run long. If you'd rather I grow more concise, I can. I don't want to presume.  <details><summary>[Note]</summary>
 
-See El-Mohtar and Gladstone p. 65
+See El-Mohtar and Gladstone p. 65  
 
 Who knows how much space a word takes up? And yet I cannot stop from writing. My perhaps apologies. *–Slow Hours*</details>
 </blockquote>
@@ -188,9 +187,9 @@ In the Post-Self books, characters can create copies of themselves with vanishin
 
 *All artists search. I search for stories, in this post-self age. What happens when you can no longer call yourself an individual, when you have split your sense of self among several instances? How do you react? Do you withdraw into yourself, become a hermit? Do you expand until you lose all sense of identity? Do you fragment? Do you go about it deliberately, or do you let nature and chance take their course?*  <details><summary>[Note]</summary>
 
-See qoheleth p. 164.
+See qoheleth p. 164.  
 
-The character speaking, Dear, Also, The Tree That Was Felled of the Ode clade, speaks in italics, which has been preserved here. I do not make the rules, I simply foist them upon the reader. *–Beholden*
+The character speaking, Dear, Also, The Tree That Was Felled of the Ode clade, speaks in italics, which has been preserved here. I do not make the rules, I simply foist them upon the reader. *–Dear The Wheat And Rye Under The Stars*
 
 And besides, without even knowing, I set my hopes and dreams within Dear, did I not? My dreams that I might be different from the rest of my clade. It is different from Rye, from Praiseworthy, and Warmth In Fire is different from it. *–Slow Hours*
 
@@ -234,7 +233,7 @@ The way I feel?
 
 The way she feels when she's fronting? <details><summary>[Note]</summary>
 
-See ally on plurality
+See ally on plurality  
 "There is confusion here," the ally continued, and while I have picked up more knowledge, confusion remains. *–Hold My Name*
 
 Is even the ally another me? *–Slow Hours*</details>
@@ -253,7 +252,7 @@ What I am cognizant of is how this has become a habit. Yes, some of that is just
 <blockquote>
 I don't know what this means. This feels like being cut off again — feels like teetering on the brink of something that will unmake me. <details><summary>[Note]</summary>
 
-See El-Mohtar and Gladstone p. 125
+See El-Mohtar and Gladstone p. 125  
 Unmake some more singular me, some me less weird. Plurality! Medianity! Pfah, I came out as gay and came out as trans, and now I must hoard some other identity?  *–Hold My Name*</details>
 </blockquote>
 
@@ -267,8 +266,8 @@ how you almost entirely skip the blossom<br>
 and without praise press your pure secret<br>
 into the promptly unfolding fruit. <details><summary>[Note]</summary>
 
-See Rilke p. 57
-So fast the fig matures, rushing into completion. Am I rushing? Sure, I have been thinking about this since *ally*, unintentionally wrote four more books about it after, but am I rushing? Perhaps that is the basis for my fear. *–Slow Hours*</details>
+See Rilke p. 57  
+So fast the fig matures, rushing into completion. Am I rushing? Sure, I have been thinking about this since *ally*, unintentionally wrote four more books about it after, but am I rushing? Perhaps that is the basis for my fear. *–Rye*</details>
 </blockquote>
 
 Perhaps that, too, is a trans thing, though. We come out, we transition, we live in this ridiculous world, and the whole time, our goal is to tamp down our identity. Even from within the community, even from the most proud, the goal is to tamp down this part of ourselves. Yes, praise the validity, but do so by passing ever better. Praise most of all the stealth, for they have tamped down their identity with makeup and binders. Praise most of all the successful men and women who slip effortlessly through the world around them, for they have integrated.
@@ -280,7 +279,7 @@ There, see? The successful trans girl with ADHD: she took her meds and did her v
 <blockquote>
 My eccentricities are tolerated: my love of cities, of poetry, my appreciation for being rootless, for being, in some ways, more Gardener than Garden, or Gardened. <details><summary>[Note]</summary>
 
-See El-Mohtar and Gladstone p. 124
+See El-Mohtar and Gladstone p. 124  
 Writing, my own eccentricity, is tolerated. Writing, furry, both are productive, both are a sharing and perhaps a source of money. Identity, though? Is that productive? Will that help me do a capitalism well? *–Hold My Name*</details>
 </blockquote>
 
@@ -315,8 +314,8 @@ incessant landing, this lost, forlorn carpet in the cosmos,
 laid on there like a plaster, as if
 Earth's skyward outskirts had been smarting there. <details><summary>[Note]</summary>
 
-See Rilke p. 47
-Rilke, I believe, is talking about the fleetingness of us, a perhaps futility, a spending of time in a "toilsome nowhere", a moving from the "merely too little" to the "empty too much". Thoughts spinning out into nowhere, crammed into a too little, emptying with a burst into some too much. *–Slow Hours*</details>
+See Rilke p. 47  
+Rilke, I believe, is talking about the fleetingness of us, a perhaps futility, a spending of time in a "toilsome nowhere", a moving from the "merely too little" to the "empty too much". Thoughts spinning out into nowhere, crammed into a too little, emptying with a burst into some too much. *–What Right Have I*</details>
 </blockquote>
 
 It is hard to pull myself back upstream against the overwhelming current of so many thoughts. Already these waters have eroded the banks of the stream. Already these whorls ache within me. Already I feel my skin pruning, going soft, as though it may soon slough off under the onslaught of this investigation.
@@ -326,8 +325,8 @@ And even if it does not slough off, I will still be more vulnerable, will I not?
 <blockquote>
 It's not that I never noticed before how many red things there are in the world. It's that they were never any more relevant to me than green or white or gold. Now, it's as if the whole world sings to me in petals, feathers, pebbles, blood. <details><summary>[Note]</summary>
 
-See El-Mohtar and Gladstone p. 119
-Red, the interlocutor. *–Beholden*</details>
+See El-Mohtar and Gladstone p. 119  
+Red, the interlocutor. *–Rye*</details>
 </blockquote>
 
 Ah, even my words are colored rosy from all this exploration!
@@ -343,7 +342,7 @@ Though I may fear that they will tear, they also feel impossibly strong. They al
 <blockquote>
 And if I stop, I'll surely die. <details><summary>[Note]</summary>
 
-See ally p. 106
+See ally p. 106  
 Some day I will. "...Some terrible day — too soon whether tomorrow or the next millennium — I will not have you to share these joys with," my partner writes. I sigh, crying, but for now, these identities hold me fast. *–Slow Hours*</details>
 </blockquote>
 
@@ -372,7 +371,7 @@ There was a moment of silence as, I imagine, ey leaned back in eir chair, brow k
 <blockquote>
 Listen to me. I am your echo. <details><summary>[Note]</summary>
 
-See El-Mohtar and Gladstone p. 149
+See El-Mohtar and Gladstone p. 149  
 As ey are, even as eir identity swings towards some other self. *–Slow Hours*</details>
 </blockquote>
 
@@ -381,30 +380,30 @@ And there, behind the scenes, that delamination prickled further through my pape
 <blockquote>
 How I would then like to hide from the longing [...] <details><summary>[Note]</summary>
 
-See Rilke p. 59
+See Rilke p. 59  
 It is too much sometimes, is it not? *–Beholden*</details>
 </blockquote>
 
 Even as we worked for weeks and months together after that, even as we pried carefully at those fluttering edges, ran that fraying me beneath the rushing waters, I worried still that I took up too much space. We inch by inch slid me apart into two, into three and four, and my worries increased twice, three times and four, that I was taking up multiples of me worth of space in eir life.
 
-I slid from myself into Slow Hours and Beholden — the feeler and the mover. And then before long, Hold My Name — the self-actualizer — sheered away, and after her came Motes — the small.
+I slid from myself into Slow Hours and Beholden — the feeler and the mover. And then before long, Hold My Name — the self-actualizer — sheered away, and after her came Motes — the small. Rye — the writer. What Right Have I — the believer.
 
 And even so, even as I strove towards what felt like a more fulfilling future, a more complete identity, my worries at times were founded. After all, the worries that others had for me, their connections, were impacted by this, were they not? Dave worried that I was disappearing into the work, disappearing into some other dynamic inaccessible to him. Robin worried that I was too anxious — and what a lovely route to expand anxiety! — about the effects of expanded identities on my relationships with others.
 
-But "[w]hat gives life its"living" and its "psychic" aspect is the "vibrations" that permeate and surround each living thing and account for the "chemistry" between people," Will Crichton writes of the Duino Elegies (Rilke p. 103). "In other words, life, or the non-mechanistic side of life, is in the same general category as light and radio waves and the subtle forces that these generate."
+But "[w]hat gives life its "living" and its "psychic" aspect is the "vibrations" that permeate and surround each living thing and account for the "chemistry" between people," Will Crichton writes of the Duino Elegies (Rilke p. 103). "In other words, life, or the non-mechanistic side of life, is in the same general category as light and radio waves and the subtle forces that these generate."
 
 "God is in the dynamics," I have said. "God is a verb," say others. "See that of God in everyone," say yet more.
 
 I live a sometimes panentheism.
 
-Animistic, I see in these dynamics the divine in these relations between me and mine. Between Dave and me, Robin and me. Between Echo and this me and this me and this me and this me.
+Animistic, I see in these dynamics the divine in these relations between me and mine. Between Dave and me, Robin and me. Between Echo and this me and this me and this me and this me, and yes, this me and this me.
 
 <blockquote>
 Angel, oh take it, pluck it, that tiny-flowered healing herb.<br>
 Protect it! Find a vase for it! Place it among those joys<br>
 not yet open to us, in an appealing urn. <details><summary>[Note]</summary>
 
-See Rilke p. 51
+See Rilke p. 51  
 Urn! What a choice of word, rather than a mere vase. *–Motes*</details>
 </blockquote>
 
@@ -434,7 +433,8 @@ Why?
 <blockquote>
 There are twenty-two questions on the previous page. Twenty-five if you count mine — and I suppose that whether or not we are to include those is the crux of the issue. If that is not bemoaning the lack of answers, I do not know what is. It is strange that you would be unsure whether or not you want to know the answer. <details><summary>[Note]</summary>
 
-See ally on plurality — "Are you me?" I asked in 22 ways. The ally's only response: "Am I?" *–Slow Hours*</details>
+See ally on plurality  
+"Are you me?" I asked in 22 ways. The ally's only response: "Am I?" *–Slow Hours*</details>
 </blockquote>
 </blockquote>
 
@@ -447,7 +447,7 @@ One way, perhaps, to stop worrying about how much space one takes up is to stop 
 <blockquote>
 Your dream, is it not this, some time to be invisible? <details><summary>[Note]</summary>
 
-See Rilke p. 87
+See Rilke p. 87  
 Death, then, the ultimate invisibility. *–Beholden*
 
 Suicide, then, the ultimate dream. *–Slow Hours*</details>
@@ -472,7 +472,7 @@ They spilled from home; they stood me right<br>
 &nbsp; &nbsp;  &nbsp; &nbsp;  and made me eat your name,<br>
 then bade me lift my eyes to stars of you. <details><summary>[Note]</summary>
 
-See motion p. 63
+See motion p. 63  
 But then, the Madison that kept bees may yet be alive. Some day, perhaps. One of a thousand 'some day's. *–Hold My Name*</details>
 </blockquote>
 
@@ -485,8 +485,8 @@ And being dead is full of the labor of catching up,<br>
 as one gradually acquires a sense of eternity.—<br>
 But the living always make the mistake of too sharp a distinction. <details><summary>[Note]</summary>
 
-See Rilke p. 17
-"Remembering is the opposite of dismembering," I was told, and then I was off to the races. "The danger in ceaseless memorialization is just how close it lies to idolatry. To elevate the dead to such a status as false god (for what being that is limited to the perfection of memory is not false?) is to ceaselessly perfect the imperfectable," I wrote in *Mitzvot* (*Mitzvot* p 71) *–Slow Hours*</details>
+See Rilke p. 17  
+"Remembering is the opposite of dismembering," I was told, and then I was off to the races. "The danger in ceaseless memorialization is just how close it lies to idolatry. To elevate the dead to such a status as false god (for what being that is limited to the perfection of memory is not false?) is to ceaselessly perfect the imperfectable," I wrote in *Mitzvot* (*Mitzvot* p 71) *–Rye*</details>
 </blockquote>
 
 I hold in tension within myself the idea that the only way out is through — through to the void, through that narrow gate, through to darkness — and just how unfair it would be of me to choose that.
@@ -503,7 +503,7 @@ I must, it seems, choose the death of a singular identity, the death of a Madiso
 That once, having passed through the merciless insight,<br>
 I may sing to approving angles in praise and rejoicing! <details><summary>[Note]</summary>
 
-See Rilke p. 89
+See Rilke p. 89  
 Terrifying though they may be. *–Beholden*</details>
 </blockquote>
 
@@ -518,7 +518,7 @@ Now, I come to terms — 'coming out' fits poorly, here — with plurality, with
 <blockquote>
 It is such a luxury to dwell in these details — to share them with you. <details><summary>[Note]</summary>
 
-See El-Mohtar and Gladstone p. 89
+See El-Mohtar and Gladstone p. 89  
 A privilege, even! Perhaps were I busier, had I still a job, I would not have the luxury to dwell in such details. *–Motes*</details>
 </blockquote>
 
@@ -536,8 +536,8 @@ of jointly built up motion (which, quicker than water,<br>
 has spring, summer, and autumn in just a few<br>
 minutes) — fall off and bump on the grave; <details><summary>[Note]</summary>
 
-See Rilke p. 51 
-Oh, but I looked down from those heights. *That* me did. *That* me clutched and grabbed at the branch, strove to stay in existence, afraid of that bump against the grave, but killing an entire self is not easy. Forgetting an entire self is not possible. I remember Ranna, yes? I remember Makyo. I remember Maddy. I am very few of those anymore. I am Slow Hours and Beholden and Motes and Hold My Name, hints at names cribbed from my own work, selves with names stolen from lines of a poem, characters with an allergy to contractions and a complex relationship with language. I, the me who is Slow Hours, would not simply fall away and rot on the grave, even if I were to darken a while on the branch to remain just a part of the pantomime against the sky, I would still be there with Ranna and Makyo and Maddy. *–Slow Hours*</details>
+See Rilke p. 51  
+Oh, but I looked down from those heights. *That* me did. *That* me clutched and grabbed at the branch, strove to stay in existence, afraid of that bump against the grave, but killing an entire self is not easy. Forgetting an entire self is not possible. I remember Ranna, yes? I remember Makyo. I remember Maddy. I am very few of those anymore. I am Slow Hours and Beholden and Motes and Hold My Name and Rye and What Right Have I, hints at names cribbed from my own work, selves with names stolen from lines of a poem, characters with an allergy to contractions and a complex relationship with language. I, the me who is Slow Hours, would not simply fall away and rot on the grave, even if I were to darken a while on the branch to remain just a part of the pantomime against the sky, I would still be there with Ranna and Makyo and Maddy. *–Slow Hours*</details>
 </blockquote>
 
 She did not. I am still her, and gladly. But had she died, what then? I would be unwhole. I would have a rotting edge. I would have to tape myself together around this missing self.
@@ -545,8 +545,8 @@ She did not. I am still her, and gladly. But had she died, what then? I would be
 <blockquote>
 What will I do, sky? Lake, what? Bluebird, iris, ultramarine, how can there be more when this is done? <details><summary>[Note]</summary>
 
-See El-Mohtar and Gladstone p. 165 
-How could there be more after she died, had she? I, as Beholden, am not her. Motes most certainly not. Hold My Name perhaps could hold some of what she was, but she is not her. Slow Hours is she who revels in the bittersweet. Beholden is she who revels in creation. Motes is she who plays in joy. Hold My Name is visibly hungry for earnest expression. How could I revel in the bittersweet without her? *–Beholden*</details>
+See El-Mohtar and Gladstone p. 165  
+How could there be more after she died, had she? I, as Beholden, am not her. Motes most certainly not. Hold My Name perhaps could hold some of what she was, as could both Rye and What Right Have I, though for different reasons, but none of them are her. Slow Hours is she who revels in the bittersweet. Beholden is she who revels in creation. Motes is she who plays in joy. Hold My Name is visibly hungry for earnest expression. How could I revel in the bittersweet without her? *–Beholden*</details>
 </blockquote>
 
 But, yes. She did not. We found a way to make it work. We found a word to kick that partial Madison into place, to smooth out coarse seams. We found a secret name. We made promises to make time for each other, for these us-es. I am still her, she is still eirs, and gladly.
@@ -554,8 +554,8 @@ But, yes. She did not. We found a way to make it work. We found a word to kick t
 <blockquote>
 But it will never end — that's the answer. There is always us. <details><summary>[Note]</summary>
 
-See El-Mohtar and Gladstone p. 165
-There is always us. There is always me and me and me and me, yes, but there is always me and all of my beloved. *–Slow Hours, Beholden, Motes, and Hold My Name*</details>
+See El-Mohtar and Gladstone p. 165  
+There is always us. There is always me and me and me and me, and then me and me, yes, but there is always me and all of my beloved. *–Slow Hours, Beholden, Motes, Hold My Name, Rye, and What Right Have I*</details>
 </blockquote>
 
 -----
@@ -565,7 +565,7 @@ That is the thing about hate, about loathing, even of oneself. There is a certai
 <blockquote>
 I wish I could see your triumph. <details><summary>[Note]</summary>
 
-See El-Mohtar and Gladstone p. 128
+See El-Mohtar and Gladstone p. 128  
 Perhaps better worded "I hope that I see your triumph," for I may yet! *–Motes*</details>
 </blockquote>
 
@@ -582,7 +582,7 @@ I wish I could see your triumph, and I wish that, should you see mine, you under
 <blockquote>
 Do you laugh, sea foam? Do you smile, ice, and observe your triumph with an angel's remove? <details><summary>[Note]</summary>
 
-See El-Mohtar and Gladstone p. 128
+See El-Mohtar and Gladstone p. 128  
 I am sure she does, this more earnest me. I hope that I see even but one second of that victorious smile, hear but a moment of that triumphant laugh before she is all that is left. *–Hold My Name*</details>
 </blockquote>
 
@@ -597,7 +597,7 @@ Do they laugh, the sea foam, the ice, the angels?
 <blockquote>
 I write in fire across the sky, a plummet to match your rise. <details><summary>[Note]</summary>
 
-See El-Mohtar and Gladstone p. 129
+See El-Mohtar and Gladstone p. 129  
 Perhaps writing this is a part of that plummet; a crashing through the atmosphere, a shrill scream of air passing over ragged edges. Perhaps I *am* seeing your triumph. *–Hold My Name*</details>
 </blockquote>
 
