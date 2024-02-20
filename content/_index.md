@@ -28,6 +28,8 @@ In the second part, the concrete information and parallel story are given equal 
 In the third and final part, the dichotomy is broken and the knowledge provided by these quotations and references becomes an anxious plea that is integral to the author's struggle to justify a plural existence.
 </details>
 
+[*Download the PDF*](/Madison_Scott-Clary--Florilegium.pdf).
+
 -----
 
 
