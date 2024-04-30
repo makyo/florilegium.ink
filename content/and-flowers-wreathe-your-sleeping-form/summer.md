@@ -4,7 +4,7 @@ subtitle: And Flowers Wreathe Your Sleeping Form
 next: "and-flowers-wreathe-your-sleeping-form/autumn"
 ---
 
-As the year continues on its upward spiral, we come to one of those strange apogees of the longest day. Strange because yes, of course it bears meaning as the longest day, and yet the start of Summer never seems to fall directly on that day, does it? There is doubtless some good reason that, at least here, that is the first day of summer rather than midsummer.
+As the year continues on its upward spiral, we come to one of those strange apogees of the year: the longest day. Strange because yes, of course it bears meaning as the longest day, and yet the start of Summer never seems to fall directly on that day, does it? There is doubtless some good reason that, at least here, that is the first day of summer rather than midsummer.
 
 And yet even that isn't always accurate, is it? Some years, summer doesn't feel like it has truly hit until well into July, when the temperatures climb and the rain becomes a distant memory.[^13] You're left feeling miserable for weeks on end, wishing for even a drizzle to quench your thirst, or even a bit of cloud cover at night, enough to maybe knock the temperature down into the low seventies so you can finally, *finally* get some sleep and yet the days spiral forwards through heat-haze.
 
@@ -45,7 +45,7 @@ In a solitary humor
 {{% cite source="issa" page="65" %}}
 {{% /verse %}}
 
-The slender maiden flower is the slender maiden flower. We have no say in its existence except that we might pick it, trample it, or leave it be. It is itself, in all its glory --- or at least all its solitary humor. The flower defines itself and though we may take action on it, may think it beautiful or ugly or lonely or austere, that doesn't matter to the flower.[^15]
+The slender maiden flower is the slender maiden flower. We have no say in its existence except that we might pick it, trample it, or leave it be. It is itself, in all its glory --- or at least all its solitary humor. The flower defines itself and though we may take action on it, may think it beautiful or ugly or lonely or austere, that doesn't matter to the flower.[^3]
 
 "Summer, season of hot insomnia / That much never seems to change at all" speaks well to this. Summer is Summer. It is the season of hot insomnia and it doesn't care how tired we are. It's not that it is inimical to us so much as existing within its own external nature. It exists in that floating world that is separate from us. It does not know us, it knows only itself. It's hyperreal, perhaps, only casting its shadow into our reality.
 
@@ -85,9 +85,9 @@ It is the act of taking meaning from each other, as well, for each of us has our
 
 As that golden bloom of Summer[^18] defines itself as all things must, and we have to take it at its word. We can kvetch about the insomnia of Summer, that which makes us sweat through the sheets so that the thought of touching someone else makes one feel clammy and disgusting[^19] all we want, but that doesn't mean anything to Summer. It just also doesn't stop us from layering our own definitions atop that.
 
-[^13]: And perhaps your well dries out when you head out of town for you husband's surgery, so your dog-sitters have to figure out water, leaving you to fret and pace around the hotel room, and maybe that's the time you decide, "You know what? Work is so terrible that I think I'll apply for grad school." But you have to provide a sample of analytic writing to do so, so you pick one of your friend's poems to analyze, and two weeks later --- when you've come home to no water and a dog whose health is steadily declining though you don't know it yet --- your friend is dead.
+[^13]: And perhaps your well dries out when you head out of town for you husband's surgery, so your dog-sitters have figure out water, leaving you to fret and pace around the hotel room, and maybe that's the time you decide, "You know what? Work is so terrible that I think I'll apply for grad school." But you have to provide a sample of analytic writing to do so, so you pick one of your friend's poems to analyze, and two weeks later --- when you've come home to no water and a dog whose health is steadily declining though you don't know it yet --- your friend is dead.
 
-[^14]: It's 2022 as I write this, which means that, come September, it will have been ten years since Margaras died.
+[^14]: It was 2022 when I began write this, which meant that, come September, it would be ten years since Margaras died.
 
     His was the first death that really hit me. The first one I was really able to comprehend. Koray came into the bar, asked if this was the place he would have frequented, passed on the news, and then left.
 
@@ -99,9 +99,9 @@ As that golden bloom of Summer[^18] defines itself as all things must, and we ha
 
 [^15]: For a while, I was quite caught on the idea that others have agency of their own. Of course they do, I mean, I just found it marvelous that this was the case. There was no way that they could not, right? They live and love and feel just as much as I do, so I can't say that this same applies to people; they define themselves, sure, but they can actively change how I create meaning from their existence.[^15-1]
 
-[^15-1]: Of course, having written this, I feel bad for the flower. Perhaps it desperately wants to be seen as austere instead of lonely, as beautiful instead of ugly. Ask a botanist.
+[^15-1]: Of course, having written this, I feel bad for the flower. Perhaps it desperately wants to be seen as austere instead of lonely, as beautiful instead of ugly. I do not know. Ask a botanist.
 
-[^17]: Viz. me meeting Dwale in the writers' guild and deciding --- actively deciding --- that I would like to be its friend. It wasn't lacking, and neither was I, but something about someone who might choose 'it/its' as pronouns, someone who could engage with poetry in a way that had always eluded me. Doubt nips at my heels, though. Is "deciding to be someone's friend" a normal thing to do? Was that weird? Did it resent me for-- but I shouldn't be thinking like this.
+[^17]: Viz me meeting Dwale in the Writers' Guild forums and deciding --- actively deciding --- that I would like to be its friend. It wasn't lacking, and neither was I, but something about someone who might choose 'it/its' as pronouns, someone who could engage with poetry in a way that had always eluded me. It stuck to me much as might sap from some weed. Doubt nips at my heels, though. Is "deciding to be someone's friend" a normal thing to do? Was that weird? Did it resent me for-- but I shouldn't be thinking like this.
 
 [^18]: Of dandelions:
 

@@ -10,9 +10,20 @@ A season of green things: buds greening bare trees, grass poking through late sn
 
 A season of expansive growth, when plants race toward the heavens, or leaves burst out from reanimated branches seemingly overnight. It's the time when you can almost feel your hair growing, or perhaps your dreams swelling in some sympathetic expansion of their own.
 
-And, importantly, a season of expectations. The year may start on the first of January, a convenient fiction provided to us by the need to start it *somewhere*, but the expectations for the rest of the year lay dormant in the mind until spring. January first is the time to make the resolutions and the rest of winter is the time to try them out, whether tentatively or with great passion, but the setting of expectations for the year doesn't come until the trauma of the year before has settled into uneasy memory --- or, to use an outdated metaphor, expectations are not set until one stops writing the previous year on the date line of one's checks.
+And, importantly, a season of expectations. The year may start on the first of January, a convenient fiction provided to us by the need to start it *somewhere*, but the expectations for the rest of the year lay dormant in the mind until spring.
 
-Although it often engaged with expectations in its work, Dwale tackles the subject of Spring in the context of beginnings and growth infrequently, seeming to prefer Autumn.[^4] One small example of this comes from a short *renga* it took part in on Twitter:
+{{% verse %}}
+A year starts not on January first.
+The days may hunder but the seasons speak
+of time's long march, of fast time, slow time. Thirst
+for "start" and "end" neglects the limen sleek.
+
+{{% cite source="eigengrau" page="3" %}}
+{{% /verse %}}
+
+January first is the time to make the resolutions and the rest of winter is the time to try them out, whether tentatively or with great passion, but the setting of expectations for the year doesn't come until the trauma of the year before has settled into uneasy memory --- or, to use an outdated metaphor, expectations are not set until one stops writing the previous year on the date line of one's checks.
+
+Although it often engaged with expectations in its work, Dwale tackles the subject of Spring in the context of beginnings and growth infrequently, seeming to prefer Autumn.[^1] One small example of this comes from a short *renga* it took part in on Twitter:
 
 {{% verse %}}
 Blackbird headed south
@@ -22,7 +33,7 @@ Six months 'til winter
 {{% cite source="dwale_haiku" %}}
 {{% /verse %}}
 
-While we are verging into the territory of summer here, as "six months 'til winter" implies, we do get a sense of those expectations settling into place, a feeling of "ah, so the year is going to be like *this*". We also get that sense of growth and greenness with the mention of kudzu, a plant known for its rampant growth, quickly covering all it can in green.
+While we are verging into the territory of summer here, as "six months 'til winter" implies, we do get a sense of those expectations settling into place, a feeling of "ah, so the year is going to be like *this*." We also get that sense of growth and greenness with the mention of kudzu, a plant known for its rampant growth, quickly covering all it can in green.
 
 Blackbirds, while often showing up in the context of winter --- there is something about the contrast, the beat of wings against the stillness of snow-dulled landscapes --- do occasionally make their presence known in writings that take place during other seasons. Stevens, for example, has
 
@@ -34,11 +45,11 @@ The blackbird must be flying.
 {{% cite source="blackbird" %}}
 {{% /verse %}}
 
-wherein the thought of a river moving again being of note implies a thaw after a long winter, a world in which this could not possibly be the case without the blackbird also flying. There is a movement thawed, here.
+wherein the thought of a river moving again being of note implies a thaw after a long winter, a world in which this could not possibly be the case without the blackbird also flying. It tells of a movement thawed.
 
 Some of the reason for this paucity of spring-themed poetry is doubtless selection bias: a chapbook titled *Face Down in the Leaves*, with its cover of frost-rimed leaf-litter, is unlikely to contain any paeans to new growth.
 
-Instead, we are presented with works that focus on the fact that spring is also the time for harrowing. It's the time for tearing up that which was old, the earth that was compacted by time and snow, in order to make room for that growth which is going to come soon, whether we like it or not (the topic of unwanted growth is a topic for later in the year[^5]).
+Instead, we are presented with works that focus on the fact that spring is also the time for harrowing. It's the time for tearing up that which was old, the earth that was compacted by time and snow, in order to make room for that growth which is soon to come, whether we like it or not --- the topic of unwanted growth is a topic for later in the year.[^5].
 
 This untitled work will stand as our example:
 
@@ -61,9 +72,9 @@ Within her womb there grows a golden bloom.[^7]
 {{% cite source="leaves" page="26" %}}
 {{% /verse %}}
 
-This poem[^8] in three stanzas is largely in an even meter (sometimes iambic, sometimes trochaic), though we are presented with two instances in the first lines of the first two stanzas where that pattern is broken ("The seasonal storms": ˘ -- ˘ ˘ and "And here, wrapped in rain": ˘ -- -- ˘ --). When this is taken with the middle verse's rhymes and other examples of assonance ('become'--'bereft'--'breath' stands out), we pick up a sense of a stumble mid-gallop. Although the procession of time may be linear, the procession of the seasons may be interrupted by little stalls, little snowy loops back into winter as spring presses on towards summer.
+This poem[^8] in three stanzas is largely in an even meter (sometimes iambic, sometimes trochaic), though we are presented with two instances in the first lines of the first two stanzas where that pattern is broken ("The seasonal storms": ˘ -- ˘ ˘ -- and "And here, wrapped in rain": ˘ -- -- ˘ --). When this is taken with the middle verse's rhymes and other examples of assonance ('become'--'bereft'--'breath' stands out), we pick up a sense of a stumble mid-gallop. Although the procession of time may be linear, the procession of the seasons may be interrupted by little stalls, little snowy loops back into winter as spring presses on towards summer.
 
-These variations in prosody combined with the third verse being "played straight", such as it were, add up to a sense of growth, of rushing forward when Winter (we assume the oldest soul to be) breathes his last. Spring nudges him, and realizing that all she has left are her memories of him and her child, Summer, still unborn within her, walks those plains with only memory.
+These variations in prosody combined with the third verse being "played straight", such as it were, add up to a sense of growth, of rushing forward when Winter (we assume the oldest soul to be) breathes his last. Spring nudges him, and realizing that all she has left are her memories of him and her child, Summer, still unborn within her, walks those plains with only that remembering.
 
 This, after all, would be her new beginning. She is no longer bound to winter as she might have been before; there are to be no more of those loops back into snow, she's on her own now, pacing into the grassy flat with its puddles of fish.
 
@@ -83,7 +94,7 @@ we bind ourselves to others
 
 Spring is nothing without Winter. Even when it has its own snows, Spring is what it is specifically because it isn't Winter. There's that vernal equinox and then suddenly the days are longer than the nights, the world begins anew, and all that is in it does so as well. As with us: we are nothing without those around us, and we are us specifically because of those in our lives. There is our meeting and then suddenly that which makes us *us* is fuller than before, and we carry within us the golden bloom of who we are to become.[^9]
 
-We are the seasons that comprise our lives. We are beholden to the passing of our days as they are, yes, but we are also unable to truly, truly begin something anew. We are also comprised of that which came before, and are bound to those around us.[^10]
+We are the seasons that comprise our lives. We are beholden to the passing of our days as they are, yes, but we are also unable to truly, truly begin something anew. We are also comprised of that which came before, and are bound to those around us.[^10] They have lived their seasons, they have traversed their own spirals and left behind scraps of their lives for us to take into our own, to build off of.
 
 Also throughout Dwale's seasonal work is the concept of vegetation. In spring, we have the grass, those leafless stalks that open up with the rain.
 
@@ -113,7 +124,7 @@ It is this world that poetry most clearly provides a glimpse into. It contains t
 
 [^5]: Or perhaps later in life, when cancer may rear its ugly head. It is proving quite difficult to write about even seasons of new growth and beginnings without death-thoughts creeping in.
 
-[^6]: When its friends learned of its passing, many of us decided to memorialize it with poetry of our own {{% cite source="memorial" %}}. While I lack the feel, my attempt also incorporated the loss of breath:
+[^6]: When its friends learned of its passing, many of us decided to memorialize it with poetry of our own, several of which were included in a postscript to its posthumous novella {{% cite source="memorial" %}}. My attempt also incorporated the loss of breath:
 
     > Beneath that evening's breeze the sickly sweet\
     > &nbsp; &nbsp; and brazen scent of countless flow'rs\
@@ -136,11 +147,11 @@ It is this world that poetry most clearly provides a glimpse into. It contains t
     >
     > {{% cite source="toledot" page="162" %}}
 
-[^8]: The choosing of these four poems to focus on was originally intended to be for a music project. These were to be the texts for four art songs in a collection also named "Seasons". Every now and then, I get it into my head that maybe I can go back to writing music instead of words, and am quickly disabused of the notion when I sit down to do so. The Madison who wrote music has long since passed.
+[^8]: The choosing of these four poems to focus on was originally intended to be for a music project. These were to be the texts for four art songs. I obtained permission and everything. Every now and then, I get it into my head that maybe I can go back to writing music instead of words, and am quickly disabused of the notion when I sit down to do so. The Madison who wrote music has long since passed.
 
-[^9]: Or, to continue to use Dandelions as an example, the seeds we are to leave behind to grow in others, borne on warm breezes.
+[^9]: Or, to continue to use dandelions as an example, we carry within us the seeds we are to leave behind to grow in others, borne on warm breezes.
 
-[^10]: After all, I was bound to Dwale; that's why this essay exists. That's why what little poetry I have exists. I could appreciate the music within poetry, but it wasn't until I met Dwale, became bound to it in friendship, that was able to understand poetry better on its own terms.
+[^10]: After all, I was bound to Dwale; that's why this essay exists. That's why what little poetry I have exists. I could appreciate the music within poetry, but it wasn't until I met Dwale, became bound to it in friendship, that I was able to understand poetry better on its own terms.
 
 [^11]: Something about the numinous inspires reading the animate into the inanimate (if plants could be called such) and no one that I have talked to who dwells on their sense of the numinous can either explain or deny this. Wands of living wood! The true cross! The tree of life! Secret lives of secret cells keep hope alive that one day I might speak with you again. All four seasonal poems dwell on this.
 

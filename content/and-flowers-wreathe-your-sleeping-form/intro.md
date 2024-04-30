@@ -12,9 +12,9 @@ Slow-turning seasons.
 
 A year spirals up.
 
-A day, a week, a month, they all spiral, for any one Sunday is like the previous and the next shall be much the same, but the you who experiences the differing Sundays is different. It is a spiral, proceeding steadfastly onward. A day is a spiral, with each morning much the same as the one before and the one after. A month, following the cycle of the moon
+A day, a week, a month, they all spiral, for any one Sunday is like the previous and the next shall be much the same, but the you who experiences the differing Sundays is different. It is a spiral, proceeding steadfastly onward. A day is a spiral, with each morning much the same as the one before and the one after. A month, following the cycle of the moon.
 
-But a year, in particular, spirals up. It carries embedded within it a certain combination of pattern, count, and duration that delineates our lives better than any other cyclical unit of time. Yes, a day is divided into night and day, and those liminal dusks and dawns, but there are *so many of them*. There are so many days in a life, and there are so many in a year that to see the spiral within them does not come as easily.
+But a year, in particular, spirals up. It carries embedded within it a certain combination of pattern, count, and duration that delineates our lives better than any other cyclical unit of time. Yes, a day is divided into night, day, and those liminal dusks and dawns, but there are *so many of them*. There are so many days in a life, and there are so many in a year that to see the spiral within them does not come as easily.
 
 Our years are delineated by the seasons, though, and the count of them is so few, and the duration long enough that we can run up against that first scent of snow[^1] late in the autumn and immediately be kicked down one level of the spiral in our memories. What were we doing the last time we smelled that non-scent? What about the time before?[^2]
 
