@@ -590,7 +590,7 @@ As always, Rilke dogs me, a lingering taste hidden around some corner of my mout
 
 He saw someone do that, I think I remember the story went. He was walking, perhaps out in a sulk, and saw someone face the sea, throw their arms wide, cry out to sea foam or ice or some unseen rank of angels, and... well, I do not remember if *he* heard them, necessarily, but that is how it went, right (Freedman p. 323)? Who, though I cry, would hear me among the ranks of angels, and then hundreds of lines later, ten elegies.
 
-So whenever I get that awkward-shaped piece of grit between my mouth — *every angel is terrifying every angel is* — I think of that scene. I think of the way we elevate the unknown to some higher place that ourselves. I think of the patterns we hunt for in the sea foam, in the waves that can take us under or bash us senseless against some barnacled rock. I think about the crush of worlds implied in the calving of an iceberg and how easily that could destroy. I think about that rank of angels who, holding me to their breast, could so easily annihilate.
+So whenever I get that awkward-shaped piece of grit between my molars — *every angel is terrifying every angel is* — I think of that scene. I think of the way we elevate the unknown to some higher place than ourselves. I think of the patterns we hunt for in the sea foam, in the waves that can take us under or bash us senseless against some barnacled rock. I think about the crush of worlds implied in the calving of an iceberg and how easily that could destroy. I think about that rank of angels who, holding me to their breast, could so easily annihilate.
 
 Do they laugh, the sea foam, the ice, the angels?
 

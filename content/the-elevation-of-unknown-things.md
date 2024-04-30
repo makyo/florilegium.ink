@@ -37,6 +37,8 @@ If Matthew died in 2012 and Madison wasn't born until a few years later, if I do
 
 If Matthew died in 2012, why was I not born then?
 
+-----
+
 The Book of Job, out of all of the books in the Hebrew bible, is buried deepest under layers of guesses. Even in the Christian bible, the only book that comes close is Revelation. Perhaps it is the dire nature by which both approach the world. Job takes a look at the world, heaves a weary sigh, and says, "I suppose this is it. This is the lot we have been given in life," while Revelation looks at the world and growls deep in its throat, a sound coming from the belly, and says, "This must not be it. This cannot be the way in which the world works."
 
 Or perhaps it is the way in which they view death. While Job looks on death almost fondly, Revelation reiterates the Christian sentiment that death has been defeated using the genre of apocalypse (that is, a revealing, a pulling back of the curtain). The world that was is no more, and as there is everlasting life beyond it, it is worth considering only in that context and otherwise only worth discarding.
@@ -69,6 +71,8 @@ Once more, God says to the Adversary that there is none more pious than Job, and
 
 Yet again, God gives Job up to the Adversary --- "Only preserve his life" --- who strikes Job with a rash from head to toe, leaving him to sit among the ashes and scrape at his flesh.
 
+-----
+
 Why was Madison not born then?
 
 In reply to asking myself that, I say, "If Matthew died in September of that year, then he was sick long before. This was part of his long, slow death rattle."
@@ -78,6 +82,8 @@ He'd been sick for months. He'd contracted something terminal, been infected wit
 Some long winter followed. He had died and crumpled to the ground. He mouldered a while before decomposing into the soil. He lay dormant beneath the earth, waiting for a thaw. Madison began to grow during that false spring that hits at the beginning of March, those two weeks of warm weather that convince you that winter must be over, it must have passed and it was time to air out the house, to wash your jackets and hang them up for the year. We always forget about the second winter, but false spring is enough for the buds to peek out.
 
 Stories are as bound to time as we are, and all we can do is steal back a bit of that memory through however many words. All we can do with these memories pinned in place is regard them from a distance and make guesses. All I can do now is make guesses as to the meaning of however many conversations --- those very real words lost to the whims of technology --- that lead to the slow and not always but often painful death of who I was.
+
+-----
 
 Between the two halves of the fable --- Job's fall and God's reinstatement of him --- lies an intercalary period of at least a week wherein his friends --- Though perhaps this ought to be put in qualifying quotes: "friends" --- Eliphaz, Bildad, and Zophar (there is also Elihu; more on him later) commiserate with him, sitting silent for seven days and nights. There is then a series of speeches before the last chapter of the book containing the conclusion of the framing device. God commands that Job's friends offer up sacrifices on his behalf, and when they do, all of Job's wealth is restored twice over. 14,000 sheep, 6,000 camels and so on, down to seven more sons and three more daughters (which he gives the delightful names Dove, Cinnamon, and Horn of Eyeshade). Job lives another hundred and forty years, long enough to see four generations of offspring, until he dies "aged and sated in years." (Job 42:17, Alter)
 
@@ -125,11 +131,15 @@ And I did too! I loved Andrew, of course. I still do, from however far away. We 
 
 After that, we went to some event. Another alcohol-fueled party. Another awkward night. Another drive back home and then the rest of our stay. It went less than stellar, and we broke up the day I returned home. It had been a long time coming, not least of which because, without telling me, he'd been dating Jill for months beforehand.
 
+-----
+
 Edward L. Greenstein discusses the transpositions, interpositions, and interpolations that go into the book of Job. Take, for instance, Job's first speech. "For many reasons," he writes, "the passage 4:12-21 should be read here, right after chapter 3, as the conclusion of Job's first speech." (Greenstein 2019, 16) In that speech, Job bemoans the horrors that have befallen him and his family, spelling out in poetic detail all of the ways he wishes he'd never been born. Where, in the traditional ordering, this would lead to Eliphaz's first speech, Greenstein instead places a description of a vision that had, in those orderings, been given to Eliphaz. He provides three reasons: in similar tales, it is the complainant who receives a vision; Job, rather than his friends, receives the theophany in this story; and both Job and Eliphaz himself refer to Job's vision in later chapters.
 
 I can't speak to the details beyond this and a few mentions in the Apocrypals episode on the Book of Job. Both describe the ways in which the original story would have been kept on leaves of papyrus, how easy it would have been for such leaves to be shuffled --- accidentally or intentionally --- by some time-forgotten redacter.
 
 The Book of Job remembers its events out of order, and attempts to fix it, whether its addressed explicitly in the text as Greenstein does or through footnotes as Alter and the NOAB editors do, cannot be done so without addressing this fact.
+
+-----
 
 We, too, remember out of order.
 
@@ -165,6 +175,8 @@ But that's not how I remember it. I remember it as a story. There is a linear pr
 
 Similarly, the story I remember of Jill comes with a beginning, middle, and end. I met her through Andrew, we grew close, there was that snippy message, a sudden silence, and then that final exchange, and we haven't spoken sense. Acts one through five, all told in order: introduction, rising action, climax, falling action, catastrophe.
 
+-----
+
 It is important to reckon with two interpolations within the text that appear to be later additions, and it would be nice to address these before coming to the text that they interrupt.
 
 The first interpolation is that of a poem that comprises the entirety of chapter 28. The poem takes the form of a Hymn to Wisdom that Alter describes as "a fine poem in its own right, but one that expresses a pious view of wisdom as fear of the Lord that could scarcely be that of Job." (Alter 2019, 458)
@@ -176,6 +188,8 @@ The hymn itself is a respectable piece of poetry. It begins in a roundabout way,
 Certainly not beneath the earth! If Qohelet has taught us anything, it is that. Wisdom abides despite toil, despite merriment, despite even riches.
 
 In fact, though many of the same ideas within the hymn are also there in Qohelet, those in the latter tend to be more refined, more fleshed out. This might be due to the later date of composition of the former, but may also be due to the context of the book and the interpolated nature of the hymn. The author of the hymn views wisdom as an ephemeral concept. It is not something that can be held or perceived by man, or, indeed, life itself: "It is hidden from the eye of all living" (Job 28:21, Alter). Even other abstract (though often personified) concepts seem to have difficulty with it: "Perdition and Death have said, "With our own ears we have heard its rumor." " (Job 28:22, Alter)
+
+-----
 
 And we, too, remember out of order.
 
@@ -191,13 +205,17 @@ And perhaps it's just the ways in which *this* is pushed out to make way for *th
 
 There is an order to the events that happen in our lives, but that does not mean that we remember them that way. Perhaps it is that we remember things in the order in which they are most important to us. I remember that break-up conversation in one very clear way: I was on AIM and in the Denver airport. I had not yet gotten home. I remember that being such a low point in life, and yet it neared the top of the list in terms of importance --- at least when it comes to this particular story. I remember visiting Andrew and Kinematics in Denver, but all I remember out of that was Kine doing a burnout in his car, laughing about how "the tires have a flat spot on them, better smooth that out." Smoke blossomed behind the car, then, and I clutched at my seat, pretending to laugh, pretending to care.
 
+-----
+
 Qohelet, on the other hand, has a much more grounded view. He says that wisdom is one of those things that you gain by experiencing, something that abides through all of the ups and downs in your life and is only ever strengthened. This is not to say that he is in any way upbeat; wisdom, folly, riches, merriment, these all will go with you to the grave. They, too, will be meaningless.
 
 That is, until, one gets to the end of the book. The second half of chapter 12 of Qohelet is, per Alter, likely an interpolation of its own, where an epilogist rounds out the remainder of the book with some sounder, more conventional piety. "The last word, all being heard: fear God and keep His commands, for that is all humankind. Since every deed will God bring to judgment, for every hidden act, be it good or Evil" (Qohelet 12:13-14, Alter) echoes the end of the hymn from Job, which puts it, "Look, fear of the master, that is wisdom, and the shunning of evil is insight."
 
 Both of these interpolations seem to be taking the raw feelings of the authors of Job and Qohelet and trying to soften them, shaving off all those coarse edges. In Job we have a man striving to be heard by God Himself, and in Qohelet, we have a teacher who is bordering on nihilism, yet both of these editors are trying to fit these texts into the context of a tradition that, while it does include (and even encourage) the capacity to call God to account and to feel that certain sense of nihilism, would still appreciate a somewhat more positive view within its scripture.
 
-And though even this discussion of interpolations may feel like an interpolation itself, here is where it ceases being such: one possible outcome of Job's travails is that, as suggessted, he becomes Qohelet. Can one imagine going through the experiences that Job went through and not coming away with at least a little bit of that nihilism? Your family dies. Your livelihood is stripped away. You sit in the pit of ashes with lesions all over your body, and then God comes down in his whirlwind and fixes it all for you. You look back on all of your piety, you look back on all of your wealth, and suddenly yes, it is all a chasing after the wind.
+And though even this discussion of interpolations may feel like an interpolation itself, here is where it ceases being such: one possible outcome of Job's travails is that, as suggested, he becomes Qohelet. Can one imagine going through the experiences that Job went through and not coming away with at least a little bit of that nihilism? Your family dies. Your livelihood is stripped away. You sit in the pit of ashes with lesions all over your body, and then God comes down in his whirlwind and fixes it all for you. You look back on all of your piety, you look back on all of your wealth, and suddenly yes, it is all a chasing after the wind.
+
+-----
 
 Above all, I remember the past in fragments of identity. I remember my various selves. I remember the me who was gung-ho about music composition, just as I remember the ways in which I fell out of love with writing music. I remember the Matthew who dove into working in tech, just as I remember the Matthew who, so burnt by work, tried to kill himself. I remember the me who loved Andrew and yet I also remember the me couldn't figure out how to actually mesh with him.
 
@@ -225,9 +243,11 @@ Years later, one job and one house and one more dog and one more self later, I c
 
 I never talked to him again.
 
-The second pertinent interpolation is Elihu's speech --- and, indeed, the entire character of Elihu, who is never mentioned outside his own chapters --- in chapters 32--37. Alter holds a particularly dim view of Elihu, stating, "At this point, in the original text, the Lord would have spoken out from the whirlwind, but a lapse in judgment by an ancient editor postponed that brilliant consummation for six chapters in which the tedious Elihu is allowed to hold forth." (Alter 2019, 460) Few seem convinced that the character and his speeches are from the original text. The NOAB, notably bearish on the whole Bible, agrees that this may indeed be the case, though it does so with a sigh and a tone of resignation, adding, "In any case, the Elihu speeches are part of the book we now have", (Coogan 2018, 767) with Greenstein echoing that sigh: "Even if, as most scholars think today, the Elihu chapters were added belatedly, they form part of the biblical book." (Greenstein 2019, 22)
+-----
 
-Mitchell, on the other hand, flatly and without fanfare simply removes Elihu entirely, the chapters and verses listed in a blob of "glosses, interpolations, verses out of place." (Mitchell 1992, 131)
+The second pertinent interpolation is Elihu's speech --- and, indeed, the entire character of Elihu, who is never mentioned outside his own chapters --- in chapters 32--37. Alter holds a particularly dim view of Elihu, stating, "At this point, in the original text, the Lord would have spoken out from the whirlwind, but a lapse in judgment by an ancient editor postponed that brilliant consummation for six chapters in which the tedious Elihu is allowed to hold forth." (Alter 2019, 460) Few seem convinced that the character and his speeches are from the original text. The NOAB, notably bearish on the whole Bible, agrees that this may indeed be the case, though it does so with a sigh and a tone of resignation, adding, "In any case, the Elihu speeches are part of the book we now have", (Coogan 2018, 767) with Greenstein echoing that sigh: "Even if, as most scholars think today, the Elihu chapters were added belatedly, they form part of the biblical book." (22)
+
+Mitchell, on the other hand, flatly and without fanfare simply removes Elihu entirely, the chapters and verses listed in a blob of "glosses, interpolations, verses out of place." (131)
 
 Job and his friends have three rounds of arguments, which shall be covered soon, and then, beginning in chapter 32, Elihu is introduced out of nowhere. "So these three men ceased to answer Job, because he was righteous in his own eyes." (Job 32:1, NRSV)
 
@@ -240,6 +260,8 @@ The editors of the NOAB offer additional insight, that Elihu's speeches may have
 Indeed, Greenstein suggests that this goes even deeper: that much of the text from chapter 24 through chapter 28 may be jumbled due to this process of interpolation. This would include the interpretation that the Hymn to Wisdom belongs to Elihu. "I would explain this phenomenon by observing that toward the end of chapter 24 is a later insertion and that a roll of papyrus pages would have had to have been taken apart in order to insert the Elihu discourses, which include, I am convinced, chapter 28." (Greenstein 2019, 28) In the connection of the Hymn to Wisdom to Elihu, he is of one mind with the NOAB; indeed, in his reordered translation of the Book of Job, the Hymn is placed at the end of Elihu's speeches. He, however, disagrees with the potential interpolation of Elihu before Job's final speech, saying, "The motive for inserting Elihu into this point in the dialogues, just preceding the deity's speeches (chapters 38--41), is apparent. The divine discourses dwell on God's power and majesty, not on his justice or concern for humanity---which are the elements Job has been seeking."
 
 All this to say that Elihu presents a departure from the rest of the book.
+
+-----
 
 I was young, I was dumb, and I was flaking away at the edges of that more fundamental identity. I was making use of the space I had to explore in clumsy, gangly ways. I was building up new versions of myself, one after another, to search for the smallest bit of relief from that friction.
 
@@ -261,6 +283,8 @@ It wasn't enough, though. I needed something more. More explicit. More integral.
 
 Enter Younes.
 
+-----
+
 The next verse is all over the place in translation. KJV and NIV suggest that Elihu is upset at Job's friends because they couldn't find any fault in Job but still condemned him. JPS agrees, but uses 'merely' before 'condemn' which adds a value judgment. Alter has him upset because Job's friends couldn't show Job to be guilty. Though it is difficult to pin down why, Alter posits that Elihu is angry at Job's friends because they just couldn't actually find a way to condemn him: "because they had not found an answer that showed Job guilty" (Job 32:3, Alter) (a sentiment echoed in the footnotes for verse 13: "In attributing this statement to the three reprovers, Elihu shows them admitting the failure of their own arguments." (Alter 2019, 548)), while the NRSV walks the middle path with "because they had found no answer, though they had declared Job to be in the wrong." (Job 32:3, NRSV)
 
 Weinberger continues to be relevant: "\[...\] translation is more than a leap from dictionary to dictionary; it is a reimagining of the poem." (Weinberger and Paz 2016, 46)
@@ -271,6 +295,8 @@ This is where we leave off, and then this youngster, this whippersnapper, this u
 
 The NRSV has the unique wording "See, I open my mouth; the tongue in my mouth speaks." (Job 33:2, NRSV) In a post-*Alien* world, this brings to mind some smaller mouth rebuking him. Or, to look at it more seriously, a shallower voice. Perhaps that internal Elihu we all have within us doing its best to convince us that we have, at some point, lacked the wisdom required to have kept us from our current predicament. Perhaps I'm taking up too much space here, though.
 
+-----
+
 Looking back, coming up with a character that looks male, has that plausible deniability of masculinity, yet could engage with femininity on his own terms in more intimate settings was the perfect vessel for exploration. There are many terms for such a bodily configuration, one with both masculine and feminine primary sexual characteristics. Most of them are awful, but the one that many have landed on, purpose-built to be affirming rather than denigrating, is 'altersex'.
 
 I can't even seem to write about this without leaning heavily on the clinical. Something this fraught, this embarrassing, is difficult to acknowledge, but it remains integral to the story. How can I possibly put something like this down on paper? How can I possibly admit to something like this, after the fact? How can I-- but that's the me of today writing. That's the me who went through this whole series of events, who decided to toy with the form she presented to that particular segment of the world, to feel tentatively around the edges of gender and search for the tender spots. I was young, once, remember? And dumb.
@@ -278,6 +304,8 @@ I can't even seem to write about this without leaning heavily on the clinical. S
 And that isn't to say that I disrespect those for whom this is their own lived identity, or those for whom this is their own lived experience. Plenty who aim for this altersex goal do so because that's how they see themselves.
 
 I don't remember if that's how I saw myself. I just remember I certainly no longer saw myself as Matthew.
+
+-----
 
 Tiresome as he is, and despite the non-sequitur nature of his speeches, his language remains beautiful, and he does at points reinforce the point mentioned in the epigraph: Job questions God as to why it is that his world has become so miserable, and God cannot but reply with an exclamation that this world is far stranger, far worse and far better, than any man, no matter how righteous could hope to understand:
 
@@ -304,7 +332,9 @@ Indeed, all of Job's friends seem to be acting outside that knowledge. They seem
 
 What does this say about such a God? That that He is the type to demand an interested faith? "\[T\]heir god is revealed as a Stalinesque tyrant so pure that he "mistrusts his angels / and heaven stinks in his nose" " Mitchell says. (Mitchell 1992, xiv)
 
-There are countless ways to approach confusion. Perhaps one dons a cap and cape, sockets a meerschaum pipe into the corner of their mouth, and picks up an oversized magnifying glass to hunt for clues. Perhaps one sits and lets their eyes lose focus, letting their mind wander over the possible solution space to whatever problem that confronts them like some prophet of old. And perhaps one simply freezes, proverbial deer struck dumb by the proverbial headlights.
+-----
+
+There are countless ways to approach confusion. Perhaps one dons a cap and cape, sockets a meerschaum pipe into the corner of their mouth, and picks up an oversized magnifying glass to hunt for clues. Perhaps one sits and lets their eyes lose focus, letting their mind wander over the possible solution space to whatever problem confronts them like some prophet of old. And perhaps one simply freezes, proverbial deer struck dumb by the proverbial headlights.
 
 I'm not quite sure which of these I did. I know that I froze for quite some time. I know that, confronted with this identity-friction, I stood stock still for days and weeks, unable to internalize and unable to let go of this feeling of wrongness.
 
@@ -330,6 +360,8 @@ Or perhaps it's the way a car, lowered too close to the ground in order to show 
 
 And, of course, a collision may be a simple knock against a friendship that sends the entire thing toppling over. You watch as, almost in slow motion, it totters on its base and then goes crashing down, shattering into thousands of pieces that go skittering across the floor --- they never shatter on carpet, right? It's bound to be on marble or tile. The noise is fantastic. The mess is stupendous.
 
+-----
+
 The primary clash between Job and his friends can be boiled down to this discussion of interested versus disinterested faith.
 
 This is not limited to the book of Job, nor even Jewish or Christian liberation theologies. Take for instance the eighth-century Sufi mystic and Muslim Saint Rabi'a al-'Adiwiyya al-Qaysiyya:
@@ -344,6 +376,8 @@ This is not limited to the book of Job, nor even Jewish or Christian liberation 
 Here, she describes not just an interpretation of the concepts of heaven and hell in a disinterested fashion, but in an emphatic rejection of interested faith. "I want to put out the fires of Hell, and burn down the rewards of Paradise," she writes elsewhere. "They block the way to Allah. I do not want to worship from fear of punishment or for the promise of reward, but simply for the love of Allah." (ʻAṭṭār 2009)
 
 This is the God that Bildad, Eliphaz, and Zophar do not understand.
+
+-----
 
 It was almost unnoticeable at first.
 
@@ -376,6 +410,8 @@ It was this knock that led to her blocking one of my accounts on AIM, then forge
 I don't have it saved anywhere, but our final communication was a letter and a gift. I sent her a book --- a comic, really, a limited edition of *Rruffurr* --- along with a hand-written note apologizing for what I had done, though at that point I wasn't clear just which of these wobbles of our dynamic had been the true cause of her silence.
 
 Her response was a request for no contact moving forward.
+
+-----
 
 Job, to all of this, replies with disdain. They are, after all, responding to the wrong question. They have accused him of speaking wrongly of God, of doing wrongly by Him. They have said that surely Job has done *something* wrong, or, worse, that perhaps his family did something wrong --- and remember, Job is noteworthy for praying and committing sacrifices on behalf of his children to ensure that his family stays right in the eyes of God --- and for that they deserved to die.
 
@@ -414,7 +450,7 @@ And then, of course, he immediately turns on him:
 >
 > (Job 34:7-9, Alter)
 
-He goes on to claim, as did Job's other friends, that as God cannot possibly act in the wrong, surely it is Job who has wronged *God*, not the other way around. All of this is invective ("Would that Job might be tested forever for responding like villainous men." (Job 34:36, Alter)) is hidden behind his own innocence and couched in apologies. "Discerning men will say to me" or "therefore, discerning men, hear me" he prefixes his insults. After all, he's the youngster, right? The upstart?
+He goes on to claim, as did Job's other friends, that as God cannot possibly act in the wrong, surely it is Job who has wronged *God*, not the other way around. All of this invective ("Would that Job might be tested forever for responding like villainous men." (Job 34:36, Alter)) is hidden behind his own innocence and couched in apologies. "Discerning men will say to me" or "therefore, discerning men, hear me" he prefixes his insults. After all, he's the youngster, right? The upstart?
 
 > I am young in years,\
 > and you are aged.\
@@ -424,6 +460,8 @@ He goes on to claim, as did Job's other friends, that as God cannot possibly act
 > (Job 32:6, Alter)
 
 This youngster, this upstart, crashes up against Job's defenses, far closer to the wall at which Job stands, and strikes at him with barbs. He enters into this discourse, clashes with Job, and then leaves. He is not introduced at the beginning, nor is he acknowledged after. He is not one of Job's friends as are Bildad, Eliphaz, and Zophar. He exists, it seems, solely to tell Job all that he has done wrong.
+
+-----
 
 Up until that point, my interaction with gender had been the tentative pressing against a bruise. It hurt, yes, but one cannot help *but* press on bruises, yes? There it is, blue and purple, an angry discoloration that aches at the slightest touch, and yet you cannot stop touching it, defining the edges of that ache with an apophatic walk of the fingertips.
 
@@ -438,6 +476,8 @@ Rinse.
 Repeat.
 
 Guilt and shame.
+
+Binge and purge.
 
 Exploration and euphoria.
 
@@ -458,6 +498,8 @@ And always there was the discomfort with myself. There was JD and I on that couc
 The pendulum would swing, and I would promise myself that I could simply ignore that. Bodies are bodies, and sometimes they are stupid. Perhaps I could just not engage with mine whenever I began to feel bad, and focus my energy on something else.
 
 The friendship had crashed the ground and shattered, and then the shards began to crumble, themselves. Now, even my engagement with gender began to crumble, or at least the surface began to flake away.
+
+-----
 
 "Then the unnamable answered Job from within the whirlwind" (Job 38:1-3, Mitchell). God the unnamable, *HaShem,* whose true name, were it ever to be spoken, bears power, finally calls out to Job in turn:
 
@@ -502,6 +544,8 @@ Who knows how healthy this is.
 
 It certainly doesn't feel like it does much good when that unknown thing is scraping up against your identity, the worst sandpaper. It's that psychopathological friction. It's that slow silence that builds between you and your friend.
 
+-----
+
 Of all of the book of Job, it is this fable which seems to cause the most controversy. Even the Apocrypals podcast, whose tagline is "Where two non-believers read the bible and try not to be jerks about it", drops the 'and try not to be jerks about it' for this episode, host Chris Sims explaining, "Unfortunately, this week we are reading the book of Job." (Cereno and Sims 2022)
 
 Sims's argument boils down to the fact that this framing device leads to Job being a narrative, moral, and commercial failure: a narrative failure for not resolving any of its plot points, a moral failure because it fails to explain why bad things happen to good people, and a commercial failure because "it is the most cogent argument against religion that I have ever heard."
@@ -514,6 +558,8 @@ Indeed, the hosts of the podcast The Bible for Normal People (tagline: The Only 
 
 The interpretations of the same text a hundred years ago, a thousand years ago, twenty-four hundred years ago were all different. For instance, Cereno explains that the historical context of the book, written between the sixth and fourth century BCE, does not include the same concept of the afterlife. The pre-biblical Jewish audience of Job when it was first penned would have had the concept of *Sheol* --- that place of of stillness and darkness where both the righteous and unrighteous wind up --- rather than than the contemporary understanding of an afterlife. This was written before the concept of the messiah, before heaven and hell and life after death.
 
+-----
+
 It was that period of exploration that was at once my point of least faith and one of my elevations of the unknown things in life. I settled myself into Younes, into this view of myself that moved beyond the stolid masculinity that had to date defined who I was, and for that, I was torn down.
 
 Had it simply been simply for the satisfaction of baser needs, as I put it before, would it have affected me so deeply? Had I simply been fetishizing an experience that I did not have, as Jill put it before, would it have kicked me down into this dark night of the identity? Had I just been in it to get laid --- online, to be sure, and yet still --- what would have happened in that point?
@@ -523,6 +569,8 @@ Guilt, perhaps. Guilt and shame.
 Guilt for having done what I did, shame because that would be confirmation that I was a terrible person.
 
 But that's not what happened. What happened is that I was torn down to the point where I had to make the choice of Job: do I move forward with greater knowledge, with a sense of self made perhaps just that much more calloused by the bittersweet, with that much more protection against the wiles of life? Or do I take a step back, settle into who I was, remain in fear and let resentment be my barrier against the unknown things?
+
+-----
 
 After all of the poetry of the preceding chapters, we once more settle back into the world of the legend.
 
@@ -536,6 +584,8 @@ Job is, as ever, an upright and honest man. He's just also a man who has had a s
 
 Job has confronted God, has seen Him in His whirlwind, has heard Him speak, heard that note of exclamation, heard when "the deep will, contemplating the world it has created, says"Behold, it is very good." " (Mitchell 1992, xxviii)
 
+-----
+
 I'm Madison now. I'm no closer to defining what it means to be transgender. Were I pressed to describe what it feels like, I may have the words --- it feels like an oscillation between dys- and euphoria as I move further away and closer to this sense of identity --- but I don't have the connection to those words that makes them feel *real,* feel *true.*
 
 This point of least faith implies for some an *ideal* of least faith: that one should strive to live their life taking the least number of things on faith as possible, that to rely too much on faith becomes a fault. For others, it is a principle of least faith: it is an intrinsic property that we tend towards the least amount of faith required to live, as is evidenced by the ever-increasing understanding of the world around ourselves.
@@ -543,6 +593,8 @@ This point of least faith implies for some an *ideal* of least faith: that one s
 And, perhaps because of that principle, this point of least faith is always shifting, trending usually downwards --- though some discoveries, if they are to be believed, may make that line tick upwards. Every day, we drift towards some point at which all things may be known.
 
 Or, to speak in terms of cost and benefit, that point of least faith is the point of faith at its most disinterested. It is the point at which you may hold one singular thing on faith rather than all of those countless aspects that lie within that exchange, that power dynamic. That point where, against all the world throws at us, we are still able to hold to that which we believe to be true.
+
+-----
 
 Rather than simply falling back into his old life after this, he is changed, and at this point of change, he is at last presented with his choice.
 
@@ -559,6 +611,8 @@ Or he can take up the path of Qohelet: yes, all may be meaningless, a chasing af
 None of this is written, but such is the way of a text like this: it does not do the work for us. We must do the work. We must read between the lines and between the letters, and we must pull together this meaning from fable and verse. We must elevate the unknown things. After all, if we fail to do that work, we fall upon the simple terrors of phrases like "bad things happen to good people" or, worse, "bad things happen to sinners, and aren't we all?"
 
 "It is the lesson of the whole work that man is most comforted by paradoxes." (Chesterton 1929) We must imagine his choice. We must imagine that Job, too, can be happy.
+
+-----
 
 And that was mine. That was my point of least faith. That was the point at which I...'doubted' is not quite the right word. That was the point at which I shouted at nothing, the point at which I demanded an advocate from no one. That was the point that God, the universe, that very same no one answered my note of interrogation with one of exclamation. Instead of some explicable approach to the problem of identity, it insisted that it is much stranger than I had ever thought.
 

@@ -85,7 +85,7 @@ It is the act of taking meaning from each other, as well, for each of us has our
 
 As that golden bloom of Summer[^18] defines itself as all things must, and we have to take it at its word. We can kvetch about the insomnia of Summer, that which makes us sweat through the sheets so that the thought of touching someone else makes one feel clammy and disgusting[^19] all we want, but that doesn't mean anything to Summer. It just also doesn't stop us from layering our own definitions atop that.
 
-[^13]: And perhaps your well dries out when you head out of town for you husband's surgery, so your dog-sitters to have to figure out water, leaving you to fret and pace around the hotel room, and maybe that's the time you decide, "You know what? Work is so terrible that I think I'll apply for grad school." But you have to provide a sample of analytic writing to do so, so you pick one of your friend's poems to analyze, and two weeks later --- when you've come home to no water and a dog whose health is steadily declining though you don't know it yet --- your friend is dead.
+[^13]: And perhaps your well dries out when you head out of town for you husband's surgery, so your dog-sitters have to figure out water, leaving you to fret and pace around the hotel room, and maybe that's the time you decide, "You know what? Work is so terrible that I think I'll apply for grad school." But you have to provide a sample of analytic writing to do so, so you pick one of your friend's poems to analyze, and two weeks later --- when you've come home to no water and a dog whose health is steadily declining though you don't know it yet --- your friend is dead.
 
 [^14]: It's 2022 as I write this, which means that, come September, it will have been ten years since Margaras died.
 
