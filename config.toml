@@ -5,7 +5,7 @@ theme = 'maddybook'
 
 
 [params]
-    author = 'Madison Scott-Clary'
+    author = 'Madison Rye Progress'
     home = 'https://makyo.ink'
     copyright = 2023
     customCSS = ['/css/florilegium.css']
