@@ -1,5 +1,7 @@
 ---
 title: Spring
+subtitle: And Flowers Wreathe Your Sleeping Form
+type: page
 next: "and-flowers-wreathe-your-sleeping-form/summer"
 ---
 

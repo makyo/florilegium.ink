@@ -1,6 +1,7 @@
 {{ define "main" }}
   <main id="main">
-    <h1>{{ .Title }}</h1>
+      <h1>{{ if .Params.subtitle }}{{ .Params.subtitle }}{{ else }}{{ .Title }}{{ end }}</h1>
+      {{ if .Params.subtitle }}<hr><h2>{{ .Title }}</h2>{{ end }}
     {{ .Content }}
   </main>
 {{ end }}

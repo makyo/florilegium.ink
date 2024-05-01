@@ -1,9 +1,9 @@
 ---
 type: page
+title: And Flowers Wreathe Your Sleeping Form
 next: "and-flowers-wreathe-your-sleeping-form/intro"
 ---
 
-# And Flowers Wreathe Your Sleeping Form
 
 ## Content note
 

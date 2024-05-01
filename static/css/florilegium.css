@@ -8,16 +8,24 @@ body * {
     font-family: "Alegreya", serif;
 }
 
-h1, h2, h1 *, h2 *, summary {
+h1, h2, h1 *, h2 *, summary, header {
     font-family: "Coelacanth", serif !important;
 }
 
 header {
-    padding-left: 25%;
+    margin: 0 auto;
 }
 
 header * {
+    font-family: "Coelacanth", serif !important;
     text-align: left;
+}
+
+header h3 {
+    padding-top: 1rem;
+    margin-bottom: -0.1rem;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    text-align: center;
 }
 
 header h1 {
