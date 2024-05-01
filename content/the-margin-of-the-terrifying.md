@@ -187,9 +187,11 @@ In the Post-Self books, characters can create copies of themselves with vanishin
 
 *All artists search. I search for stories, in this post-self age. What happens when you can no longer call yourself an individual, when you have split your sense of self among several instances? How do you react? Do you withdraw into yourself, become a hermit? Do you expand until you lose all sense of identity? Do you fragment? Do you go about it deliberately, or do you let nature and chance take their course?*  <details><summary>[Note]</summary>
 
-See qoheleth p. 164.  
+See Qoheleth p. 164.  
 
 The character speaking, Dear, Also, The Tree That Was Felled of the Ode clade, speaks in italics, which has been preserved here. I do not make the rules, I simply foist them upon the reader. *–Dear The Wheat And Rye Under The Stars*
+
+It came from you, my dear, and took from you its art. *—I Remember The Rattle Of Dry Grass*
 
 And besides, without even knowing, I set my hopes and dreams within Dear, did I not? My dreams that I might be different from the rest of my clade. It is different from Rye, from Praiseworthy, and Warmth In Fire is different from it. *–Slow Hours*
 
@@ -236,7 +238,9 @@ The way she feels when she's fronting? <details><summary>[Note]</summary>
 See ally on plurality  
 "There is confusion here," the ally continued, and while I have picked up more knowledge, confusion remains. *–Hold My Name*
 
-Is even the ally another me? *–Slow Hours*</details>
+Is even the ally another me? *–Slow Hours*
+
+Another us? *—Dry Grass*</details>
 </blockquote>
 
 It sent me into my five thousand word tailspin where I asked dozens and dozens of questions of my ally, of myself, as I tried to nail down the panic that came with being confronted by this idea of plurality. There was this anxiety of definition — was this me? Was this who I was? — right alongside the anxiety of identification: if this is me, what does that mean for my life?
@@ -386,7 +390,7 @@ It is too much sometimes, is it not? *–Beholden*</details>
 
 Even as we worked for weeks and months together after that, even as we pried carefully at those fluttering edges, ran that fraying me beneath the rushing waters, I worried still that I took up too much space. We inch by inch slid me apart into two, into three and four, and my worries increased twice, three times and four, that I was taking up multiples of me worth of space in eir life.
 
-I slid from myself into Slow Hours and Beholden — the feeler and the mover. And then before long, Hold My Name — the self-actualizer — sheered away, and after her came Motes — the small. Rye — the writer. What Right Have I — the believer.
+I slid from myself into Slow Hours and Beholden — the feeler and the mover. And then before long, Hold My Name — the self-actualizer — sheered away, and after her came Motes — the small. Rye — the writer. What Right Have I — the believer. And some time later, Dry Grass — the mother — and True Name — the leader — slid carefully into being.
 
 And even so, even as I strove towards what felt like a more fulfilling future, a more complete identity, my worries at times were founded. After all, the worries that others had for me, their connections, were impacted by this, were they not? Dave worried that I was disappearing into the work, disappearing into some other dynamic inaccessible to him. Robin worried that I was too anxious — and what a lovely route to expand anxiety! — about the effects of expanded identities on my relationships with others.
 
@@ -448,9 +452,11 @@ One way, perhaps, to stop worrying about how much space one takes up is to stop 
 Your dream, is it not this, some time to be invisible? <details><summary>[Note]</summary>
 
 See Rilke p. 87  
-Death, then, the ultimate invisibility. *–Beholden*
+Death, then, the ultimate invisibility. *–The Only Time I Know My True Name Is When I Dream*
 
-Suicide, then, the ultimate dream. *–Slow Hours*</details>
+Suicide, then, the ultimate dream. *–Slow Hours*
+
+I do not like such talk. I cannot deny that it is in us, but that of us which is me does not like such talk. *—Dry Grass*</details>
 </blockquote>
 
 But what does this mean for the foundation of those worries? I would still take up space, yes? Arguably, I would take up more! *Much* more, yes? I would take up an inordinate amount of space in the hearts and minds of my loved ones. They would be left not only with their knowledge of me, but also of their lack of knowledge.
@@ -486,7 +492,7 @@ as one gradually acquires a sense of eternity.—<br>
 But the living always make the mistake of too sharp a distinction. <details><summary>[Note]</summary>
 
 See Rilke p. 17  
-"Remembering is the opposite of dismembering," I was told, and then I was off to the races. "The danger in ceaseless memorialization is just how close it lies to idolatry. To elevate the dead to such a status as false god (for what being that is limited to the perfection of memory is not false?) is to ceaselessly perfect the imperfectable," I wrote in *Mitzvot* (*Mitzvot* p 71) *–Rye*</details>
+"Remembering is the opposite of dismembering," I was told, and then I was off to the races. "The danger in ceaseless memorialization is just how close it lies to idolatry. To elevate the dead to such a status as false god (for what being that is limited to the perfection of memory is not false?) is to ceaselessly perfect the imperfectable," I wrote in *Mitzvot* (p 71) *–Rye*</details>
 </blockquote>
 
 I hold in tension within myself the idea that the only way out is through — through to the void, through that narrow gate, through to darkness — and just how unfair it would be of me to choose that.
@@ -504,7 +510,7 @@ That once, having passed through the merciless insight,<br>
 I may sing to approving angles in praise and rejoicing! <details><summary>[Note]</summary>
 
 See Rilke p. 89  
-Terrifying though they may be. *–Beholden*</details>
+Terrifying though they may be. *–What Right Have I*</details>
 </blockquote>
 
 Perhaps the most terrifying bit of this decision is how little change I feel. It does not feel like a new thing. It does not feel like I have become someone else. I do not feel like the various mes that I am now are somehow any different from the singular me that I used to be.
@@ -537,7 +543,7 @@ has spring, summer, and autumn in just a few<br>
 minutes) — fall off and bump on the grave; <details><summary>[Note]</summary>
 
 See Rilke p. 51  
-Oh, but I looked down from those heights. *That* me did. *That* me clutched and grabbed at the branch, strove to stay in existence, afraid of that bump against the grave, but killing an entire self is not easy. Forgetting an entire self is not possible. I remember Ranna, yes? I remember Makyo. I remember Maddy. I am very few of those anymore. I am Slow Hours and Beholden and Motes and Hold My Name and Rye and What Right Have I, hints at names cribbed from my own work, selves with names stolen from lines of a poem, characters with an allergy to contractions and a complex relationship with language. I, the me who is Slow Hours, would not simply fall away and rot on the grave, even if I were to darken a while on the branch to remain just a part of the pantomime against the sky, I would still be there with Ranna and Makyo and Maddy. *–Slow Hours*</details>
+Oh, but I looked down from those heights. *That* me did. *That* me clutched and grabbed at the branch, strove to stay in existence, afraid of that bump against the grave, but killing an entire self is not easy. Forgetting an entire self is not possible. I remember Ranna, yes? I remember Makyo. I remember Maddy. I am very few of those anymore. I am Slow Hours and Beholden and Motes and Hold My Name and Rye and What Right Have I, I am Dry Grass and True Name and who knows who else, hints at names cribbed from my own work, selves with names stolen from lines of a poem, characters with an allergy to contractions and a complex relationship with language. I, the me who is Slow Hours, would not simply fall away and rot on the grave, even if I were to darken a while on the branch to remain just a part of the pantomime against the sky, I would still be there with Ranna and Makyo and Maddy. *–Slow Hours*</details>
 </blockquote>
 
 She did not. I am still her, and gladly. But had she died, what then? I would be unwhole. I would have a rotting edge. I would have to tape myself together around this missing self.
@@ -546,7 +552,11 @@ She did not. I am still her, and gladly. But had she died, what then? I would be
 What will I do, sky? Lake, what? Bluebird, iris, ultramarine, how can there be more when this is done? <details><summary>[Note]</summary>
 
 See El-Mohtar and Gladstone p. 165  
-How could there be more after she died, had she? I, as Beholden, am not her. Motes most certainly not. Hold My Name perhaps could hold some of what she was, as could both Rye and What Right Have I, though for different reasons, but none of them are her. Slow Hours is she who revels in the bittersweet. Beholden is she who revels in creation. Motes is she who plays in joy. Hold My Name is visibly hungry for earnest expression. How could I revel in the bittersweet without her? *–Beholden*</details>
+How could there be more after she died, had she? *—True Name*
+
+I, as Beholden, am not her. Motes most certainly not. True Name perhaps could hold some of what she was, as could both Rye and What Right Have I, though for different reasons, but none of them are her. Slow Hours is she who revels in the bittersweet. Beholden is she who revels in creation. Motes is she who plays in joy. Hold My Name is visibly hungry for earnest expression. How could I revel in the bittersweet without her? *–Beholden*
+
+How could we but do our best, had we needed to? *—What Right Have I*</details>
 </blockquote>
 
 But, yes. She did not. We found a way to make it work. We found a word to kick that partial Madison into place, to smooth out coarse seams. We found a secret name. We made promises to make time for each other, for these us-es. I am still her, she is still eirs, and gladly.
@@ -555,7 +565,7 @@ But, yes. She did not. We found a way to make it work. We found a word to kick t
 But it will never end — that's the answer. There is always us. <details><summary>[Note]</summary>
 
 See El-Mohtar and Gladstone p. 165  
-There is always us. There is always me and me and me and me, and then me and me, yes, but there is always me and all of my beloved. *–Slow Hours, Beholden, Motes, Hold My Name, Rye, and What Right Have I*</details>
+There is always us. There is always me and me and me and me, and then me and me, and me twice more, yes, but there is always me and all of my beloved. *–Slow Hours, Beholden, Motes, Hold My Name, Rye, What Right Have I, Dry Grass, and True Name*</details>
 </blockquote>
 
 -----
@@ -583,7 +593,7 @@ I wish I could see your triumph, and I wish that, should you see mine, you under
 Do you laugh, sea foam? Do you smile, ice, and observe your triumph with an angel's remove? <details><summary>[Note]</summary>
 
 See El-Mohtar and Gladstone p. 128  
-I am sure she does, this more earnest me. I hope that I see even but one second of that victorious smile, hear but a moment of that triumphant laugh before she is all that is left. *–Hold My Name*</details>
+I am sure she does, this more earnest me. I hope that I see even but one second of that victorious smile, hear but a moment of that triumphant laugh before she is all that is left. *–True Name*</details>
 </blockquote>
 
 As always, Rilke dogs me, a lingering taste hidden around some corner of my mouth. Every now and then, I think, *every angel is terrifying*, and then I will go about my day, repeating that like a mantra: *every angel is terrifying every angel is terrifying every angel is terrifying every angel...*
@@ -615,15 +625,15 @@ I wish I could see your triumph.
 
 ### Works cited
 
-* Dwale. A Drop in the Motion. Thurston Howl Publications, 2022.
-* Freedman, Ralph. Life of a poet: Rainer Maria Rilke. Northwestern UP, 1998.
-* El-Mohtar, Amal and Max Gladstone. This is How You Lose the Time War. Jo Fletcher Books, 2019.
-* Nix, Garth. Sabriel. Harper Collins, 1996.
-* Rax. book recommendation: ally by Madison Scott-Clary. June 2020. <https://rax.dreamwidth.org/164542.html>.
-* Rilke, Rainer Maria. Duino Elegies5 . Green Integer, 2003.
-* Scott-Clary, Madison. ally. Madison Scott-Clary, 2020.
+* Dwale. *A Drop in the Motion*. Thurston Howl Publications, 2022.
+* Freedman, Ralph. *Life of a poet: Rainer Maria Rilke*. Northwestern UP, 1998.
+* El-Mohtar, Amal and Max Gladstone. *This is How You Lose the Time War*. Jo Fletcher Books, 2019.
+* Nix, Garth. *Sabriel*. Harper Collins, 1996.
+* Rax. "book recommendation: ally by Madison Scott-Clary". June 2020. <https://rax.dreamwidth.org/164542.html>.
+* Rilke, Rainer Maria. *Duino Elegies*. Green Integer, 2003.
+* Scott-Clary, Madison. *ally*. Madison Scott-Clary, 2020.
 * ———. ally (web edition). June 2020. ally.id/plurality.
 * ———. ally from Start to Finish. self-published, 2020.
-* ———. Mitzvot. self published, 2023, p. 460.
-* ———. Unimportant Verse About Important People. 2017, Accessed Feb 26, 2022. <https://writing.drab-makyo.com/poetry/important-people/>.
+* ———. *Mitzvot*. self published, 2023, p. 460.
+* ———. "Unimportant Verse About Important People". 2017, Accessed Feb 26, 2022. <https://writing.drab-makyo.com/poetry/important-people/>.
 
