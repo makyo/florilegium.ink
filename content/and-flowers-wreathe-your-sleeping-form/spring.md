@@ -125,7 +125,7 @@ It is this world that poetry most clearly provides a glimpse into. It contains t
 
 [^5]: Or perhaps later in life, when cancer may rear its ugly head. It is proving quite difficult to write about even seasons of new growth and beginnings without death-thoughts creeping in.
 
-[^6]: When its friends learned of its passing, many of us decided to memorialize it with poetry of our own, several of which were included in a postscript to its posthumous novella {{% cite source="memorial" %}}. My attempt also incorporated the loss of breath:
+[^6]: When its friends learned of its passing, many of us decided to memorialize it with poetry of our own, several of which were included in a postscript to its posthumous novella {{% cite source="motion" page="63" %}}. My attempt also incorporated the loss of breath:
 
     > Beneath that evening's breeze the sickly sweet\
     > &nbsp; &nbsp; and brazen scent of countless flow'rs\
