@@ -24,7 +24,7 @@ for "start" and "end" neglects the limen sleek.
 
 January first is the time to make the resolutions and the rest of winter is the time to try them out, whether tentatively or with great passion, but the setting of expectations for the year doesn't come until the trauma of the year before has settled into uneasy memory --- or, to use an outdated metaphor, expectations are not set until one stops writing the previous year on the date line of one's checks.
 
-Although it often engaged with expectations in its work, Dwale tackles the subject of Spring in the context of beginnings and growth infrequently, seeming to prefer Autumn.[^1] One small example of this comes from a short *renga* it took part in on Twitter:
+Although it often engaged with expectations in its work, Dwale tackles the subject of Spring in the context of beginnings and growth infrequently, seeming to prefer Autumn.[^4] One small example of this comes from a short *renga* it took part in on Twitter:
 
 {{% verse %}}
 Blackbird headed south
