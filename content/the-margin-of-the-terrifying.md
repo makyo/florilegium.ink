@@ -307,15 +307,15 @@ Too many words, too many thoughts.
 
 <blockquote>
 
-But tell me, who are these itinerants, more fleeting than even
-we ourselves, since early on wrung out by an urgent (for *whose* sake, *whose?*)
-always unsatisfied will; which rather wrings them,
-bends them, slings and swings them, throws them
-and catches them back; and as from an oiled,
-slipperier air, they come down
-on the worn out carpet, thinner from their
-incessant landing, this lost, forlorn carpet in the cosmos,
-laid on there like a plaster, as if
+But tell me, who are these itinerants, more fleeting than even<br>
+we ourselves, since early on wrung out by an urgent (for *whose* sake, *whose?*)<br>
+always unsatisfied will; which rather wrings them,<br>
+bends them, slings and swings them, throws them<br>
+and catches them back; and as from an oiled,<br>
+slipperier air, they come down<br>
+on the worn out carpet, thinner from their<br>
+incessant landing, this lost, forlorn carpet in the cosmos,<br>
+laid on there like a plaster, as if<br>
 Earth's skyward outskirts had been smarting there. <details><summary>[Note]</summary>
 
 See Rilke p. 47  
