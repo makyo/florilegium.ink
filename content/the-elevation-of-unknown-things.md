@@ -663,3 +663,7 @@ Weinberger, Eliot, and Octavio Paz. 2016. *Nineteen Ways of Looking at Wang Wei:
 
 [^6]: Denoted *Septuagint 2001* when verses are quoted.
 
+<script type="text/javascript" charset="utf-8" src="https://www.sefaria.org/linker.v3.js"></script>
+<script>
+    sefaria.link();
+</script>
