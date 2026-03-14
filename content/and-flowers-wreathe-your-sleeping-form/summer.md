@@ -46,7 +46,7 @@ In a solitary humor
 {{% cite source="issa" page="65" %}}
 {{% /verse %}}
 
-The slender maiden flower is the slender maiden flower. We have no say in its existence except that we might pick it, trample it, or leave it be. It is itself, in all its glory --- or at least all its solitary humor. The flower defines itself and though we may take action on it, may think it beautiful or ugly or lonely or austere, that doesn't matter to the flower.[^3]
+The slender maiden flower is the slender maiden flower. We have no say in its existence except that we might pick it, trample it, or leave it be. It is itself, in all its glory --- or at least all its solitary humor. The flower defines itself and though we may take action on it, may think it beautiful or ugly or lonely or austere, that doesn't matter to the flower.[^15]
 
 "Summer, season of hot insomnia / That much never seems to change at all" speaks well to this. Summer is Summer. It is the season of hot insomnia and it doesn't care how tired we are. It's not that it is inimical to us so much as existing within its own external nature. It exists in that floating world that is separate from us. It does not know us, it knows only itself. It's hyperreal, perhaps, only casting its shadow into our reality.
 
