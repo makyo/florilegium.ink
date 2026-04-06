@@ -46,7 +46,11 @@ header h2:after {
     left: 0;
     width: 25%;
     border-top: 1px solid black;
-} 
+}
+
+li, li p {
+    text-align: left;
+}
 
 .dark-mode header h2:after {
     border-top: 1px solid #eee;

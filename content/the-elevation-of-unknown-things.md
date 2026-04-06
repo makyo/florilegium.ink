@@ -648,8 +648,7 @@ It just took me a long, long time to figure out disinterested identity.
 * TVTropes. n.d. "Blue-and-Orange Morality." <https://tvtropes.org/pmwiki/pmwiki.php/Main/BlueAndOrangeMorality>.
 * Various. 2001. "The 2001 Translation[^6]." <https://2001translation.org/read/job>. <https://2001translation.org/read/job>.
 * Wakefield, Buddy. 2010. "Hurling Crowbirds at Mockingbars (Hope Is Not a Course of Action)." <https://thenervousbreakdown.com/bwakefield/2010/01/hurling-crowbirds-at-mockingbars-hope-is-not-a-course-of-action/>. <https://thenervousbreakdown.com/bwakefield/2010/01/hurling-crowbirds-at-mockingbars-hope-is-not-a-course-of-action/>.
-
-Weinberger, Eliot, and Octavio Paz. 2016. *Nineteen Ways of Looking at Wang Wei: (With More Ways)*. New Directions Paperbook.
+* Weinberger, Eliot, and Octavio Paz. 2016. *Nineteen Ways of Looking at Wang Wei: (With More Ways)*. New Directions Paperbook.
 
 [^1]: Denoted *Alter* when verses are quoted.
 
